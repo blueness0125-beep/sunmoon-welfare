@@ -1,0 +1,1882 @@
+[
+  {
+    "id": 1,
+    "name": "용평리조트(그린피아)",
+    "category": "ACCOMMODATION_RESORT",
+    "categoryLabel": "숙박/리조트",
+    "categoryGroup": "숙박",
+    "targets": [
+      {
+        "type": "FACULTY",
+        "label": "교직원"
+      }
+    ],
+    "benefitSummary": "인사총무팀 문의로 예약",
+    "reservationMethod": "인사총무팀 문의(041-530-2164)",
+    "phone": "1588-0009",
+    "phoneSecondary": "041-530-2164",
+    "website": "http://www.yongpyong.co.kr",
+    "roadAddress": "충남 보령시 웅천읍 열린바다1길 78",
+    "addressNote": "⚠️ PPT 원본 주소가 보령시로 기재됨 - 실제 용평리조트는 강원도 평창군. 별도 시설 또는 오류 확인 필요",
+    "description": "아름다운 어머니 품과 같은 대자연 공간",
+    "hasCredentials": false,
+    "sortOrder": 0,
+    "slideNumber": 3
+  },
+  {
+    "id": 2,
+    "name": "여수디오션리조트",
+    "category": "ACCOMMODATION_RESORT",
+    "categoryLabel": "숙박/리조트",
+    "categoryGroup": "숙박",
+    "targets": [
+      {
+        "type": "FACULTY",
+        "label": "교직원"
+      }
+    ],
+    "benefitSummary": "인사총무팀 문의로 예약",
+    "reservationMethod": "인사총무팀 문의(041-530-2164)",
+    "phone": "1588-0009",
+    "phoneSecondary": "041-530-2164",
+    "website": "https://theoceanresort.co.kr",
+    "roadAddress": "전남 여수시 소호로 295",
+    "addressNote": "",
+    "description": "다도해를 항해하는 꿈같은 휴식",
+    "hasCredentials": false,
+    "sortOrder": 1,
+    "slideNumber": 4
+  },
+  {
+    "id": 3,
+    "name": "무창포 비체팰리스",
+    "category": "ACCOMMODATION_RESORT",
+    "categoryLabel": "숙박/리조트",
+    "categoryGroup": "숙박",
+    "targets": [
+      {
+        "type": "FACULTY",
+        "label": "교직원"
+      }
+    ],
+    "benefitSummary": "인사총무팀 문의로 예약",
+    "reservationMethod": "인사총무팀 문의(041-530-2164)",
+    "phone": "1588-0009",
+    "phoneSecondary": "041-530-2164",
+    "website": "http://www.beachepalace.co.kr",
+    "roadAddress": "충남 보령시 웅천읍 열린바다1길 78",
+    "addressNote": "",
+    "description": "빛과 생명이 살아있는 해양리조트 비체팰리스",
+    "hasCredentials": false,
+    "sortOrder": 2,
+    "slideNumber": 5
+  },
+  {
+    "id": 4,
+    "name": "파인리즈리조트",
+    "category": "ACCOMMODATION_RESORT",
+    "categoryLabel": "숙박/리조트",
+    "categoryGroup": "숙박",
+    "targets": [
+      {
+        "type": "FACULTY",
+        "label": "교직원"
+      }
+    ],
+    "benefitSummary": "인사총무팀 문의로 예약",
+    "reservationMethod": "인사총무팀 문의(041-530-2164)",
+    "phone": "1577-6399",
+    "phoneSecondary": "041-530-2164",
+    "website": "https://www.pineridge.co.kr/",
+    "roadAddress": "강원도 고성군 토성면 잼버리동로 267",
+    "addressNote": "",
+    "description": "특별한 골프이야기가 차고 넘치는 축복의 땅",
+    "hasCredentials": false,
+    "sortOrder": 3,
+    "slideNumber": 6
+  },
+  {
+    "id": 5,
+    "name": "일성콘도",
+    "category": "ACCOMMODATION_RESORT",
+    "categoryLabel": "숙박/리조트",
+    "categoryGroup": "숙박",
+    "targets": [
+      {
+        "type": "FACULTY",
+        "label": "교직원"
+      }
+    ],
+    "benefitSummary": "판매 객실료 기준: 60%~70%",
+    "reservationMethod": "홈페이지 우측 하단 <법인예약>에서 개별 예약 진행",
+    "phone": "1566-8113",
+    "phoneSecondary": "",
+    "website": "http://www.ilsungresort.co.kr",
+    "roadAddress": "전국 다수 (설악온천, 제주비치, 경주보문, 남한강, 지리산, 무주, 부곡온천)",
+    "addressNote": "",
+    "description": "설악온천, 제주비치, 경주보문, 남한강, 지리산, 무주, 부곡온천",
+    "hasCredentials": true,
+    "sortOrder": 4,
+    "slideNumber": 7
+  },
+  {
+    "id": 6,
+    "name": "가평 모나캠핑파크",
+    "category": "ACCOMMODATION_CAMPING",
+    "categoryLabel": "숙박/캠핑",
+    "categoryGroup": "숙박",
+    "targets": [
+      {
+        "type": "FACULTY",
+        "label": "교직원"
+      }
+    ],
+    "benefitSummary": "판매 객실료 기준 –주중: 25%, 주말&공휴일: 20%",
+    "reservationMethod": "전화 또는 홈페이지 개별 문의 및 예약 / 사원증 및 명함 지참",
+    "phone": "02-2000-5351",
+    "phoneSecondary": "",
+    "website": "http://www.monacampark.co.kr/",
+    "roadAddress": "경기도 가평군 상면 축령로 143",
+    "addressNote": "",
+    "description": "워라벨에 최적화된 모나캠핑파크",
+    "hasCredentials": false,
+    "sortOrder": 5,
+    "slideNumber": 8
+  },
+  {
+    "id": 7,
+    "name": "신라스테이 천안",
+    "category": "ACCOMMODATION_HOTEL",
+    "categoryLabel": "숙박/호텔",
+    "categoryGroup": "숙박",
+    "targets": [
+      {
+        "type": "FACULTY",
+        "label": "교직원"
+      }
+    ],
+    "benefitSummary": "판매 객실료 기준: 56%~58%",
+    "reservationMethod": "전화 또는 홈페이지 개별문의 및 예약 / 사원증 및 명함 지참",
+    "phone": "041-415-9000",
+    "phoneSecondary": "",
+    "website": "https://shillastay.com/cheonan/",
+    "roadAddress": "천안시 서북구 동서대로 177",
+    "addressNote": "",
+    "description": "최상의 휴식을 완성시켜드립니다",
+    "hasCredentials": false,
+    "sortOrder": 6,
+    "slideNumber": 9
+  },
+  {
+    "id": 8,
+    "name": "온양관광호텔",
+    "category": "ACCOMMODATION_HOTEL",
+    "categoryLabel": "숙박/호텔",
+    "categoryGroup": "숙박",
+    "targets": [
+      {
+        "type": "FACULTY",
+        "label": "교직원"
+      }
+    ],
+    "benefitSummary": "예약 방법",
+    "reservationMethod": "객실 40%, 대온천탕, 헬스클럽 20%",
+    "phone": "1459 041-540",
+    "phoneSecondary": "",
+    "website": "",
+    "roadAddress": "충남 아산시 온천대로 1459",
+    "addressNote": "",
+    "description": "객실 40%, 대온천탕, 헬스클럽 20%",
+    "hasCredentials": false,
+    "sortOrder": 7,
+    "slideNumber": 10
+  },
+  {
+    "id": 9,
+    "name": "온양제일호텔",
+    "category": "ACCOMMODATION_HOTEL",
+    "categoryLabel": "숙박/호텔",
+    "categoryGroup": "숙박",
+    "targets": [
+      {
+        "type": "FACULTY",
+        "label": "교직원"
+      }
+    ],
+    "benefitSummary": "예약 방법",
+    "reservationMethod": "객실 47~50%, 온천사우타 30%(객실 이용시)",
+    "phone": "041-547-2500",
+    "phoneSecondary": "",
+    "website": "http://www.cheilhotel.co.kr/",
+    "roadAddress": "충남 아산시 온천대로 1462 온양팔래스호텔",
+    "addressNote": "",
+    "description": "객실 47~50%, 온천사우타 30%(객실 이용시)",
+    "hasCredentials": false,
+    "sortOrder": 8,
+    "slideNumber": 11
+  },
+  {
+    "id": 10,
+    "name": "아산 슈어스테이 호텔",
+    "category": "ACCOMMODATION_HOTEL",
+    "categoryLabel": "숙박/호텔",
+    "categoryGroup": "숙박",
+    "targets": [
+      {
+        "type": "FACULTY",
+        "label": "교직원"
+      }
+    ],
+    "benefitSummary": "예약 방법",
+    "reservationMethod": "객실 47~50%, 온천사우타 30%(객실 이용시)",
+    "phone": "32 041-548",
+    "phoneSecondary": "",
+    "website": "",
+    "roadAddress": "아산 슈어스테이 호텔",
+    "addressNote": "",
+    "description": "객실 47~50%, 온천사우타 30%(객실 이용시)",
+    "hasCredentials": false,
+    "sortOrder": 9,
+    "slideNumber": 12
+  },
+  {
+    "id": 11,
+    "name": "천안 ON호텔그룹 (ON CITY & ON SMART)",
+    "category": "ACCOMMODATION_HOTEL",
+    "categoryLabel": "숙박/호텔",
+    "categoryGroup": "숙박",
+    "targets": [
+      {
+        "type": "FACULTY",
+        "label": "교직원"
+      }
+    ],
+    "benefitSummary": "판매 객실료 기준: 30~60%",
+    "reservationMethod": "전화 또는 홈페이지 개별문의 및 예약 / 사원증 및 명함 지참",
+    "phone": "041-553-8080",
+    "phoneSecondary": "041-563-8700",
+    "website": "www.onsmarthotel.com",
+    "roadAddress": "천안시 불당동 (3곳)",
+    "addressNote": "",
+    "description": "고객 여러분의 여행 과정이 더욱 아름다워질 수 있게 준비되어 있는 호텔",
+    "hasCredentials": false,
+    "sortOrder": 10,
+    "slideNumber": 13
+  },
+  {
+    "id": 12,
+    "name": "천안 라마다앙코르바이윈덤 호텔",
+    "category": "ACCOMMODATION_HOTEL",
+    "categoryLabel": "숙박/호텔",
+    "categoryGroup": "숙박",
+    "targets": [
+      {
+        "type": "FACULTY",
+        "label": "교직원"
+      }
+    ],
+    "benefitSummary": "예약 방법",
+    "reservationMethod": "주중: 62%, 주말(금,토): 56%",
+    "phone": "12 041-570",
+    "phoneSecondary": "",
+    "website": "http://ramada-encore.co.kr/",
+    "roadAddress": "천안 라마다앙코르바이윈덤 호텔",
+    "addressNote": "",
+    "description": "주중: 62%, 주말(금,토): 56%",
+    "hasCredentials": false,
+    "sortOrder": 11,
+    "slideNumber": 14
+  },
+  {
+    "id": 13,
+    "name": "하이원리조트",
+    "category": "ACCOMMODATION_RESORT",
+    "categoryLabel": "숙박/리조트",
+    "categoryGroup": "숙박",
+    "targets": [
+      {
+        "type": "FACULTY",
+        "label": "교직원"
+      }
+    ],
+    "benefitSummary": "판매 객실료 기준: 10~80% / 객실 점유율에 따라 상시 가격 변동",
+    "reservationMethod": "선문대 교직원 전용 예약사이트에서 예약",
+    "phone": "1588-7789",
+    "phoneSecondary": "",
+    "website": "https://www.high1.com/",
+    "roadAddress": "강원도 정선군 고한읍 하이원길 424",
+    "addressNote": "",
+    "description": "즐거운 삶과 더 나은 세상을 만드는 행복 쉼터",
+    "hasCredentials": true,
+    "sortOrder": 12,
+    "slideNumber": 15
+  },
+  {
+    "id": 14,
+    "name": "해운대 씨클라우드 레지던스",
+    "category": "ACCOMMODATION_HOTEL",
+    "categoryLabel": "숙박/호텔",
+    "categoryGroup": "숙박",
+    "targets": [
+      {
+        "type": "FACULTY",
+        "label": "교직원"
+      }
+    ],
+    "benefitSummary": "예약 방법",
+    "reservationMethod": "판매 객실료 기준: 40~80% / 주말, 성수기에 따라 금액 상이",
+    "phone": "287 010-3574",
+    "phoneSecondary": "",
+    "website": "",
+    "roadAddress": "부산 해운대구 해운대해변로 287",
+    "addressNote": "",
+    "description": "판매 객실료 기준: 40~80% / 주말, 성수기에 따라 금액 상이",
+    "hasCredentials": false,
+    "sortOrder": 13,
+    "slideNumber": 16
+  },
+  {
+    "id": 15,
+    "name": "제주 윈스토리호텔",
+    "category": "ACCOMMODATION_HOTEL",
+    "categoryLabel": "숙박/호텔",
+    "categoryGroup": "숙박",
+    "targets": [
+      {
+        "type": "FACULTY",
+        "label": "교직원"
+      }
+    ],
+    "benefitSummary": "예약 방법",
+    "reservationMethod": "판매 객실료 기준: 주중, 주말, 연휴 동일가 적용(5만 5천원 ~ 11만 5천원)",
+    "phone": "11 064-741",
+    "phoneSecondary": "",
+    "website": "http://hotelwinstory.com/",
+    "roadAddress": "제주 윈스토리호텔",
+    "addressNote": "",
+    "description": "판매 객실료 기준: 주중, 주말, 연휴 동일가 적용(5만 5천원 ~ 11만 5천원)",
+    "hasCredentials": false,
+    "sortOrder": 14,
+    "slideNumber": 17
+  },
+  {
+    "id": 16,
+    "name": "파라다이스 스파 도고",
+    "category": "ACCOMMODATION_SPA",
+    "categoryLabel": "스파/온천",
+    "categoryGroup": "숙박",
+    "targets": [
+      {
+        "type": "FACULTY",
+        "label": "교직원"
+      }
+    ],
+    "benefitSummary": "주중 주말 성수기: 40%, 카라반: 20%",
+    "reservationMethod": "선문대학교 교직원 전용 예약사이트 회원가입 후 예약 진행",
+    "phone": "041-537-7100",
+    "phoneSecondary": "837190816125",
+    "website": "http://www.paradisespa.co.kr/",
+    "roadAddress": "충남 아산시 도고면 도고온천로 176",
+    "addressNote": "",
+    "description": "자연이 만든 프리미엄 스파",
+    "hasCredentials": true,
+    "sortOrder": 15,
+    "slideNumber": 18
+  },
+  {
+    "id": 17,
+    "name": "와이(Y)글램핑",
+    "category": "ACCOMMODATION_CAMPING",
+    "categoryLabel": "숙박/캠핑",
+    "categoryGroup": "숙박",
+    "targets": [
+      {
+        "type": "FACULTY",
+        "label": "교직원"
+      }
+    ],
+    "benefitSummary": "예약 방법",
+    "reservationMethod": "주중: 20,000원/주말: 25,000원 할인 적용(현장 페이백)",
+    "phone": "12 0507-1329",
+    "phoneSecondary": "",
+    "website": "http://www.yglamping.co.kr/",
+    "roadAddress": "충남 아산시 송악면 강당로115번길 12",
+    "addressNote": "",
+    "description": "주중: 20,000원/주말: 25,000원 할인 적용(현장 페이백)",
+    "hasCredentials": false,
+    "sortOrder": 16,
+    "slideNumber": 19
+  },
+  {
+    "id": 18,
+    "name": "청심국제병원",
+    "category": "HOSPITAL_GENERAL",
+    "categoryLabel": "병원/일반",
+    "categoryGroup": "병원",
+    "targets": [
+      {
+        "type": "FACULTY",
+        "label": "교직원"
+      }
+    ],
+    "benefitSummary": "예약 방법",
+    "reservationMethod": "건강검진, 비급여 항목: 50%",
+    "phone": "267-177 031",
+    "phoneSecondary": "",
+    "website": "http://www.hjmmc.or.kr/",
+    "roadAddress": "경기도 가평군 설악면 미사리로 267-177",
+    "addressNote": "",
+    "description": "건강검진, 비급여 항목: 50%",
+    "hasCredentials": false,
+    "sortOrder": 17,
+    "slideNumber": 20
+  },
+  {
+    "id": 19,
+    "name": "천안충무병원",
+    "category": "HOSPITAL_GENERAL",
+    "categoryLabel": "병원/일반",
+    "categoryGroup": "병원",
+    "targets": [
+      {
+        "type": "FACULTY",
+        "label": "교직원"
+      }
+    ],
+    "benefitSummary": "예약 방법",
+    "reservationMethod": "비급여: 10%",
+    "phone": "041-570-7555",
+    "phoneSecondary": "",
+    "website": "http://www.cmhos.co.kr/",
+    "roadAddress": "천안충무병원",
+    "addressNote": "",
+    "description": "중부권 최대 종합병원, 13개의 전문화 센터",
+    "hasCredentials": false,
+    "sortOrder": 18,
+    "slideNumber": 21
+  },
+  {
+    "id": 20,
+    "name": "아산충무병원",
+    "category": "HOSPITAL_GENERAL",
+    "categoryLabel": "병원/일반",
+    "categoryGroup": "병원",
+    "targets": [
+      {
+        "type": "FACULTY",
+        "label": "교직원"
+      }
+    ],
+    "benefitSummary": "예약 방법",
+    "reservationMethod": "비급여: 10%",
+    "phone": "041-536-6666",
+    "phoneSecondary": "",
+    "website": "https://www.asancm.co.kr",
+    "roadAddress": "아산충무병원",
+    "addressNote": "",
+    "description": "환자를 가족처럼 모시는 환자중심병원",
+    "hasCredentials": false,
+    "sortOrder": 19,
+    "slideNumber": 22
+  },
+  {
+    "id": 21,
+    "name": "천안우리병원",
+    "category": "HOSPITAL_GENERAL",
+    "categoryLabel": "병원/일반",
+    "categoryGroup": "병원",
+    "targets": [
+      {
+        "type": "FACULTY",
+        "label": "교직원"
+      }
+    ],
+    "benefitSummary": "예약 방법",
+    "reservationMethod": "비급여 항목 10%",
+    "phone": "350 041-590",
+    "phoneSecondary": "",
+    "website": "http://spinewoori.com/",
+    "roadAddress": "천안우리병원",
+    "addressNote": "",
+    "description": "정확한 진료와 보살핌을 전하는 사랑의 매개체가 되겠습니다",
+    "hasCredentials": false,
+    "sortOrder": 20,
+    "slideNumber": 23
+  },
+  {
+    "id": 22,
+    "name": "이화병원",
+    "category": "HOSPITAL_GENERAL",
+    "categoryLabel": "병원/일반",
+    "categoryGroup": "병원",
+    "targets": [
+      {
+        "type": "FACULTY",
+        "label": "교직원"
+      }
+    ],
+    "benefitSummary": "예약 방법",
+    "reservationMethod": "본인부담금: 10%(비급여 3만원 초과시)",
+    "phone": "165 041-579",
+    "phoneSecondary": "",
+    "website": "",
+    "roadAddress": "충남 천안시 서북구 충무로 165",
+    "addressNote": "",
+    "description": "본인부담금: 10%(비급여 3만원 초과시)",
+    "hasCredentials": false,
+    "sortOrder": 21,
+    "slideNumber": 24
+  },
+  {
+    "id": 23,
+    "name": "서울대정병원",
+    "category": "HOSPITAL_GENERAL",
+    "categoryLabel": "병원/일반",
+    "categoryGroup": "병원",
+    "targets": [
+      {
+        "type": "FACULTY",
+        "label": "교직원"
+      }
+    ],
+    "benefitSummary": "예약 방법",
+    "reservationMethod": "비급여 항목: 10%",
+    "phone": "18 041-415",
+    "phoneSecondary": "",
+    "website": "http://sdjhospital.com/",
+    "roadAddress": "서울대정병원",
+    "addressNote": "",
+    "description": "시작부터 바른 생각을 가진 사람들의 바른 병원",
+    "hasCredentials": false,
+    "sortOrder": 22,
+    "slideNumber": 25
+  },
+  {
+    "id": 24,
+    "name": "대전대학교 천안한방병원",
+    "category": "HOSPITAL_ORIENTAL",
+    "categoryLabel": "병원/한방",
+    "categoryGroup": "병원",
+    "targets": [
+      {
+        "type": "FACULTY",
+        "label": "교직원"
+      }
+    ],
+    "benefitSummary": "예약 방법",
+    "reservationMethod": "첩약 10%",
+    "phone": "041-521-7210",
+    "phoneSecondary": "",
+    "website": "https://www.djuca.or.kr",
+    "roadAddress": "천안시 서북구 노태산로 4",
+    "addressNote": "",
+    "description": "대전대학교 한의과대학 교수가 직접 책임진료합니다.",
+    "hasCredentials": false,
+    "sortOrder": 23,
+    "slideNumber": 26
+  },
+  {
+    "id": 25,
+    "name": "바른내과의원",
+    "category": "HOSPITAL_GENERAL",
+    "categoryLabel": "병원/일반",
+    "categoryGroup": "병원",
+    "targets": [
+      {
+        "type": "FACULTY",
+        "label": "교직원"
+      }
+    ],
+    "benefitSummary": "예약 방법",
+    "reservationMethod": "일부 비급여 항목: 10% / 각종 예방접종: 10%",
+    "phone": "20 041-549",
+    "phoneSecondary": "",
+    "website": "http://bareunim.com/",
+    "roadAddress": "아산시 탕정면 탕정면로 20",
+    "addressNote": "",
+    "description": "일부 비급여 항목: 10% / 각종 예방접종: 10%",
+    "hasCredentials": false,
+    "sortOrder": 24,
+    "slideNumber": 27
+  },
+  {
+    "id": 26,
+    "name": "상쾌항외과의원",
+    "category": "HOSPITAL_GENERAL",
+    "categoryLabel": "병원/일반",
+    "categoryGroup": "병원",
+    "targets": [
+      {
+        "type": "FACULTY",
+        "label": "교직원"
+      }
+    ],
+    "benefitSummary": "예약 방법",
+    "reservationMethod": "비급여 항목: 15%",
+    "phone": "041-568-3600",
+    "phoneSecondary": "",
+    "website": "http://www.freshhang.com/",
+    "roadAddress": "충남 아산시 배방읍 고속철대로 147 우성메디피아",
+    "addressNote": "",
+    "description": "",
+    "hasCredentials": false,
+    "sortOrder": 25,
+    "slideNumber": 28
+  },
+  {
+    "id": 27,
+    "name": "꿈을이루는 수치과",
+    "category": "HOSPITAL_DENTAL",
+    "categoryLabel": "병원/치과",
+    "categoryGroup": "병원",
+    "targets": [
+      {
+        "type": "FACULTY",
+        "label": "교직원"
+      }
+    ],
+    "benefitSummary": "예약 방법",
+    "reservationMethod": "비급여 항목: 10%",
+    "phone": "041-556-2282",
+    "phoneSecondary": "",
+    "website": "",
+    "roadAddress": "아산시 배방읍 장재리 1755 우성메디피아 4층",
+    "addressNote": "",
+    "description": "www.sudentalclinic.com/",
+    "hasCredentials": false,
+    "sortOrder": 26,
+    "slideNumber": 29
+  },
+  {
+    "id": 28,
+    "name": "더보스톤치과",
+    "category": "HOSPITAL_DENTAL",
+    "categoryLabel": "병원/치과",
+    "categoryGroup": "병원",
+    "targets": [
+      {
+        "type": "FACULTY",
+        "label": "교직원"
+      }
+    ],
+    "benefitSummary": "예약 방법",
+    "reservationMethod": "임플란트, 교정: 40~60%, 비급여 항목: 20%",
+    "phone": "26 041-555",
+    "phoneSecondary": "",
+    "website": "http://www.theboston.co.kr/",
+    "roadAddress": "충남 천안시 서북구 불당33길",
+    "addressNote": "",
+    "description": "임플란트, 교정: 40~60%, 비급여 항목: 20%",
+    "hasCredentials": false,
+    "sortOrder": 27,
+    "slideNumber": 30
+  },
+  {
+    "id": 29,
+    "name": "보스톤연합치과",
+    "category": "HOSPITAL_DENTAL",
+    "categoryLabel": "병원/치과",
+    "categoryGroup": "병원",
+    "targets": [
+      {
+        "type": "FACULTY",
+        "label": "교직원"
+      }
+    ],
+    "benefitSummary": "예약 방법",
+    "reservationMethod": "임플란트: 40%, 비급여 항목: 20%",
+    "phone": "041-555-7528",
+    "phoneSecondary": "",
+    "website": "",
+    "roadAddress": "충청남도 천안시 서북구 백석로 85-4 3층",
+    "addressNote": "",
+    "description": "임플란트: 40%, 비급여 항목: 20%",
+    "hasCredentials": false,
+    "sortOrder": 28,
+    "slideNumber": 31
+  },
+  {
+    "id": 30,
+    "name": "서울미프로치과",
+    "category": "HOSPITAL_DENTAL",
+    "categoryLabel": "병원/치과",
+    "categoryGroup": "병원",
+    "targets": [
+      {
+        "type": "FACULTY",
+        "label": "교직원"
+      }
+    ],
+    "benefitSummary": "예약 방법",
+    "reservationMethod": "비급여 항목: 30%, 구강건강검진 진행",
+    "phone": "02-516-2833",
+    "phoneSecondary": "",
+    "website": "",
+    "roadAddress": "서울미프로치과",
+    "addressNote": "",
+    "description": "비급여 항목: 30%, 구강건강검진 진행",
+    "hasCredentials": false,
+    "sortOrder": 29,
+    "slideNumber": 32
+  },
+  {
+    "id": 31,
+    "name": "서울바르다치과",
+    "category": "HOSPITAL_DENTAL",
+    "categoryLabel": "병원/치과",
+    "categoryGroup": "병원",
+    "targets": [
+      {
+        "type": "FACULTY",
+        "label": "교직원"
+      }
+    ],
+    "benefitSummary": "예약 방법",
+    "reservationMethod": "비급여 항목: 10%",
+    "phone": "041-414-2835",
+    "phoneSecondary": "",
+    "website": "https://bardadental.modoo.at/",
+    "roadAddress": "서울바르다치과",
+    "addressNote": "",
+    "description": "환자의 구강건강을 최우선으로 생각하는 치과",
+    "hasCredentials": false,
+    "sortOrder": 30,
+    "slideNumber": 33
+  },
+  {
+    "id": 32,
+    "name": "연세우일치과병원",
+    "category": "HOSPITAL_DENTAL",
+    "categoryLabel": "병원/치과",
+    "categoryGroup": "병원",
+    "targets": [
+      {
+        "type": "FACULTY",
+        "label": "교직원"
+      }
+    ],
+    "benefitSummary": "예약 방법",
+    "reservationMethod": "임플란트: 15% 할인, 일반진료: 20%",
+    "phone": "0507-1388-2245",
+    "phoneSecondary": "",
+    "website": "http://yonseiwooil.com/",
+    "roadAddress": "충남 천안시 서북구 서부대로 350 연세우일치과병원",
+    "addressNote": "",
+    "description": "임플란트: 15% 할인, 일반진료: 20%",
+    "hasCredentials": false,
+    "sortOrder": 31,
+    "slideNumber": 34
+  },
+  {
+    "id": 33,
+    "name": "연세이앤이치과",
+    "category": "HOSPITAL_DENTAL",
+    "categoryLabel": "병원/치과",
+    "categoryGroup": "병원",
+    "targets": [
+      {
+        "type": "FACULTY",
+        "label": "교직원"
+      }
+    ],
+    "benefitSummary": "예약 방법",
+    "reservationMethod": "비급여 항목: 15%~50%",
+    "phone": "041-548-8828",
+    "phoneSecondary": "",
+    "website": "https://blog.naver.com/ysenedc",
+    "roadAddress": "충청남도 아산시 번영로 204 2층",
+    "addressNote": "",
+    "description": "언제나 열려있는 치과, 마음을 치유해드리는 치과",
+    "hasCredentials": false,
+    "sortOrder": 32,
+    "slideNumber": 35
+  },
+  {
+    "id": 34,
+    "name": "우리삼성치과",
+    "category": "HOSPITAL_DENTAL",
+    "categoryLabel": "병원/치과",
+    "categoryGroup": "병원",
+    "targets": [
+      {
+        "type": "FACULTY",
+        "label": "교직원"
+      }
+    ],
+    "benefitSummary": "예약 방법",
+    "reservationMethod": "전체 항목: 5~25%",
+    "phone": "0507-1317-2833",
+    "phoneSecondary": "",
+    "website": "http://www.wsamsdc.com",
+    "roadAddress": "충청남도 아산시 탕정면 탕정면로22번길 11 2층 우",
+    "addressNote": "",
+    "description": "걱정 없고 깨끗한 진료, 오직 환자만을 생각하는 바른 치과",
+    "hasCredentials": false,
+    "sortOrder": 33,
+    "slideNumber": 36
+  },
+  {
+    "id": 35,
+    "name": "정호기치과",
+    "category": "HOSPITAL_DENTAL",
+    "categoryLabel": "병원/치과",
+    "categoryGroup": "병원",
+    "targets": [
+      {
+        "type": "FACULTY",
+        "label": "교직원"
+      }
+    ],
+    "benefitSummary": "예약 방법",
+    "reservationMethod": "비급여 항목: 10%",
+    "phone": "041-552-2275",
+    "phoneSecondary": "",
+    "website": "https://www.facebook.com/",
+    "roadAddress": "충청남도 천안시 서북구 동서대로 135 4층",
+    "addressNote": "",
+    "description": "",
+    "hasCredentials": false,
+    "sortOrder": 34,
+    "slideNumber": 37
+  },
+  {
+    "id": 36,
+    "name": "강남 밝은성모안과",
+    "category": "HOSPITAL_OPHTH",
+    "categoryLabel": "병원/안과",
+    "categoryGroup": "병원",
+    "targets": [
+      {
+        "type": "FACULTY",
+        "label": "교직원"
+      }
+    ],
+    "benefitSummary": "예약 방법",
+    "reservationMethod": "라식, 라섹, 드림렌즈 등: 30~58%",
+    "phone": "0507-1408-1515",
+    "phoneSecondary": "0507-1388-1522",
+    "website": "https://www.oklasik.com/new/",
+    "roadAddress": "부산점: 부산광역시 부산진구 중앙대로 723 5층6",
+    "addressNote": "",
+    "description": "강남점: 서울특별시 강남구 테헤란로 110 캠브리지",
+    "hasCredentials": false,
+    "sortOrder": 35,
+    "slideNumber": 38
+  },
+  {
+    "id": 37,
+    "name": "서울하이안과",
+    "category": "HOSPITAL_OPHTH",
+    "categoryLabel": "병원/안과",
+    "categoryGroup": "병원",
+    "targets": [
+      {
+        "type": "FACULTY_FAMILY",
+        "label": "직계가족"
+      },
+      {
+        "type": "STUDENT",
+        "label": "재학생"
+      },
+      {
+        "type": "FACULTY",
+        "label": "교직원"
+      }
+    ],
+    "benefitSummary": "예약 방법",
+    "reservationMethod": "전체 항목 10~49%",
+    "phone": "0507-1471-537",
+    "phoneSecondary": "",
+    "website": "https://hieye.co.kr/",
+    "roadAddress": "서울하이안과",
+    "addressNote": "",
+    "description": "맞춤 진료로 보이는 것 이상의 가치를 돌려드리겠습니다.",
+    "hasCredentials": false,
+    "sortOrder": 36,
+    "slideNumber": 39
+  },
+  {
+    "id": 38,
+    "name": "천안김안과 신불당점",
+    "category": "HOSPITAL_OPHTH",
+    "categoryLabel": "병원/안과",
+    "categoryGroup": "병원",
+    "targets": [
+      {
+        "type": "FACULTY_FAMILY",
+        "label": "직계가족"
+      },
+      {
+        "type": "FACULTY",
+        "label": "교직원"
+      }
+    ],
+    "benefitSummary": "예약 방법",
+    "reservationMethod": "수술에 필요한 검사비용 10% 할인 / 라식 및 라섹 수실 시 20~30% 할인 / 비급여 항목 10% 할인",
+    "phone": "041-417-1115",
+    "phoneSecondary": "",
+    "website": "https://kimeye119.co.kr/",
+    "roadAddress": "천안김안과 신불당점",
+    "addressNote": "",
+    "description": "수술에 필요한 검사비용 10% 할인 / 라식 및 라섹 수실 시 20~30% 할인 / 비급여 항목 10% 할인",
+    "hasCredentials": false,
+    "sortOrder": 37,
+    "slideNumber": 40
+  },
+  {
+    "id": 39,
+    "name": "천안김안과 천안역본점",
+    "category": "HOSPITAL_OPHTH",
+    "categoryLabel": "병원/안과",
+    "categoryGroup": "병원",
+    "targets": [
+      {
+        "type": "FACULTY_FAMILY",
+        "label": "직계가족"
+      },
+      {
+        "type": "STUDENT",
+        "label": "재학생"
+      },
+      {
+        "type": "FACULTY",
+        "label": "교직원"
+      }
+    ],
+    "benefitSummary": "예약 방법",
+    "reservationMethod": "라식, 라섹: 20~30% / 비급여 항목: 10% / 수술 검사 비용: 10~30%",
+    "phone": "92 041-551",
+    "phoneSecondary": "",
+    "website": "http://www.cheonankimeye.co.kr/",
+    "roadAddress": "천안김안과 천안역본점",
+    "addressNote": "",
+    "description": "라식, 라섹: 20~30% / 비급여 항목: 10% / 수술 검사 비용: 10~30%",
+    "hasCredentials": false,
+    "sortOrder": 38,
+    "slideNumber": 41
+  },
+  {
+    "id": 40,
+    "name": "아산 밝은신안과",
+    "category": "HOSPITAL_OPHTH",
+    "categoryLabel": "병원/안과",
+    "categoryGroup": "병원",
+    "targets": [
+      {
+        "type": "FACULTY_FAMILY",
+        "label": "직계가족"
+      },
+      {
+        "type": "FACULTY",
+        "label": "교직원"
+      }
+    ],
+    "benefitSummary": "예약 방법",
+    "reservationMethod": "프리미엄 백내장 수술 10% 할인 / 성형안과 수술 및 치료 20% 할인 / 시력교정 수술 10% 할인",
+    "phone": "1492 041-547",
+    "phoneSecondary": "",
+    "website": "http://bs-iclinic.co.kr/",
+    "roadAddress": "아산 밝은신안과",
+    "addressNote": "",
+    "description": "프리미엄 백내장 수술 10% 할인 / 성형안과 수술 및 치료 20% 할인 / 시력교정 수술 10% 할인",
+    "hasCredentials": false,
+    "sortOrder": 39,
+    "slideNumber": 42
+  },
+  {
+    "id": 41,
+    "name": "이화피닉스요양병원",
+    "category": "HOSPITAL_REHAB",
+    "categoryLabel": "병원/요양",
+    "categoryGroup": "병원",
+    "targets": [
+      {
+        "type": "FACULTY",
+        "label": "교직원"
+      }
+    ],
+    "benefitSummary": "예약 방법",
+    "reservationMethod": "본인부담금: 10%, 비급여: 10%",
+    "phone": "041-529-7000",
+    "phoneSecondary": "",
+    "website": "http://www.ewhaphoenix.com/",
+    "roadAddress": "충청남도 아산시 배방읍 배방산길 57-5 이화피닉스",
+    "addressNote": "",
+    "description": "본인부담금: 10%, 비급여: 10%",
+    "hasCredentials": false,
+    "sortOrder": 40,
+    "slideNumber": 43
+  },
+  {
+    "id": 42,
+    "name": "서울메디컬",
+    "category": "MEDICAL_PLATFORM",
+    "categoryLabel": "의료복지플랫폼",
+    "categoryGroup": "병원",
+    "targets": [
+      {
+        "type": "FACULTY_FAMILY",
+        "label": "직계가족"
+      },
+      {
+        "type": "FACULTY",
+        "label": "교직원"
+      }
+    ],
+    "benefitSummary": "예약 방법",
+    "reservationMethod": "의료비 진료과별 ~최대49% 할인 혜택(병원: 약160개/진료 프로그램: 약650개)",
+    "phone": "02-6486-3300",
+    "phoneSecondary": "",
+    "website": "https://www.mediwelfare.net",
+    "roadAddress": "서울메디컬 전담 예약센터 또는 카카오톡 medi3300 문의 후 예약 / 예약 시 “선문대학교“ 소속임을 꼭",
+    "addressNote": "",
+    "description": "기업 맞춤 의료복지 서비스, 서울메디컬",
+    "hasCredentials": false,
+    "sortOrder": 41,
+    "slideNumber": 44
+  },
+  {
+    "id": 43,
+    "name": "압구정 에스앤비안과",
+    "category": "HOSPITAL_OPHTH",
+    "categoryLabel": "병원/안과",
+    "categoryGroup": "병원",
+    "targets": [
+      {
+        "type": "FACULTY_FAMILY",
+        "label": "직계가족"
+      },
+      {
+        "type": "ACQUAINTANCE",
+        "label": "지인 포함"
+      },
+      {
+        "type": "STUDENT",
+        "label": "재학생"
+      },
+      {
+        "type": "FACULTY",
+        "label": "교직원"
+      }
+    ],
+    "benefitSummary": "예약 방법",
+    "reservationMethod": "수술에 필요한 검사비용 10% 할인 / 라식 및 라섹 수실 시 40~45% 할인 / 비급여 항목 10%~15%할",
+    "phone": "010-9386-7786",
+    "phoneSecondary": "",
+    "website": "https://www.snbeye.com",
+    "roadAddress": "서울시 강남구 신사동 599 압구정빌딩 9층",
+    "addressNote": "",
+    "description": "수술에 필요한 검사비용 10% 할인 / 라식 및 라섹 수실 시 40~45% 할인 / 비급여 항목 10%~15%할",
+    "hasCredentials": false,
+    "sortOrder": 42,
+    "slideNumber": 45
+  },
+  {
+    "id": 44,
+    "name": "천안모아치과",
+    "category": "HOSPITAL_DENTAL",
+    "categoryLabel": "병원/치과",
+    "categoryGroup": "병원",
+    "targets": [
+      {
+        "type": "FACULTY_FAMILY",
+        "label": "직계가족"
+      },
+      {
+        "type": "ACQUAINTANCE",
+        "label": "지인 포함"
+      },
+      {
+        "type": "STUDENT",
+        "label": "재학생"
+      },
+      {
+        "type": "FACULTY",
+        "label": "교직원"
+      }
+    ],
+    "benefitSummary": "예약 방법",
+    "reservationMethod": "임플란트 메가젠: 59만원, 오스템: 69만원 / 치아교정: 199만원 / 일반 진료 20%할인",
+    "phone": "041-579-7300",
+    "phoneSecondary": "",
+    "website": "https://www.chmore.com",
+    "roadAddress": "천안모아치과",
+    "addressNote": "",
+    "description": "임플란트 메가젠: 59만원, 오스템: 69만원 / 치아교정: 199만원 / 일반 진료 20%할인",
+    "hasCredentials": false,
+    "sortOrder": 43,
+    "slideNumber": 46
+  },
+  {
+    "id": 45,
+    "name": "온양장례식장",
+    "category": "FUNERAL",
+    "categoryLabel": "장례",
+    "categoryGroup": "장례",
+    "targets": [
+      {
+        "type": "FACULTY",
+        "label": "교직원"
+      }
+    ],
+    "benefitSummary": "예약 방법",
+    "reservationMethod": "접견실(특실,일반실): 48시간 기준 50% / 장의용품(수의, 관): 10% / 운구: 아산시내 무료, 그 외 지역",
+    "phone": "041-547-4444",
+    "phoneSecondary": "",
+    "website": "http://onyangfuneralhall.com/",
+    "roadAddress": "충청남도 아산시 곡교천로 171 온양장례식장",
+    "addressNote": "",
+    "description": "접견실(특실,일반실): 48시간 기준 50% / 장의용품(수의, 관): 10% / 운구: 아산시내 무료, 그 외 지역",
+    "hasCredentials": false,
+    "sortOrder": 44,
+    "slideNumber": 47
+  },
+  {
+    "id": 46,
+    "name": "아산배방장례식장",
+    "category": "FUNERAL",
+    "categoryLabel": "장례",
+    "categoryGroup": "장례",
+    "targets": [
+      {
+        "type": "STUDENT",
+        "label": "재학생"
+      },
+      {
+        "type": "FACULTY",
+        "label": "교직원"
+      }
+    ],
+    "benefitSummary": "예약 방법",
+    "reservationMethod": "장례식장 빈소 사용료: 50% / 기초생활수급자 및 차상위수급자: 화장용 수의 및 관 무료 /",
+    "phone": "041-544-1500",
+    "phoneSecondary": "",
+    "website": "",
+    "roadAddress": "아산배방장례식장",
+    "addressNote": "",
+    "description": "장례식장 빈소 사용료: 50% / 기초생활수급자 및 차상위수급자: 화장용 수의 및 관 무료 /",
+    "hasCredentials": false,
+    "sortOrder": 45,
+    "slideNumber": 48
+  },
+  {
+    "id": 47,
+    "name": "천안하늘공원 장례식장",
+    "category": "FUNERAL",
+    "categoryLabel": "장례",
+    "categoryGroup": "장례",
+    "targets": [
+      {
+        "type": "FACULTY",
+        "label": "교직원"
+      }
+    ],
+    "benefitSummary": "예약 방법",
+    "reservationMethod": "접견실: 50% / 영결식장 & 초기 운구료 & 주차 무료 / 음식비용 할인 등",
+    "phone": "041-553-8000",
+    "phoneSecondary": "",
+    "website": "",
+    "roadAddress": "천안하늘공원 장례식장",
+    "addressNote": "",
+    "description": "접견실: 50% / 영결식장 & 초기 운구료 & 주차 무료 / 음식비용 할인 등",
+    "hasCredentials": false,
+    "sortOrder": 46,
+    "slideNumber": 49
+  },
+  {
+    "id": 48,
+    "name": "천안국빈장례식장",
+    "category": "FUNERAL",
+    "categoryLabel": "장례",
+    "categoryGroup": "장례",
+    "targets": [
+      {
+        "type": "STUDENT",
+        "label": "재학생"
+      },
+      {
+        "type": "FACULTY",
+        "label": "교직원"
+      }
+    ],
+    "benefitSummary": "예약 방법",
+    "reservationMethod": "시설사용료(분향소/접객실) 50% 할인 / 장의용품 10% 할인(상조 이용 시 적용 불가) /",
+    "phone": "835 041-578",
+    "phoneSecondary": "",
+    "website": "http://boramcheonahn.com/",
+    "roadAddress": "천안국빈장례식장",
+    "addressNote": "",
+    "description": "시설사용료(분향소/접객실) 50% 할인 / 장의용품 10% 할인(상조 이용 시 적용 불가) /",
+    "hasCredentials": false,
+    "sortOrder": 47,
+    "slideNumber": 50
+  },
+  {
+    "id": 49,
+    "name": "아산모나무르(복합문화공간)",
+    "category": "CULTURE",
+    "categoryLabel": "문화/레저",
+    "categoryGroup": "기타",
+    "targets": [
+      {
+        "type": "FACULTY",
+        "label": "교직원"
+      }
+    ],
+    "benefitSummary": "예약 방법 전화 또는 홈페이지 개별문의 및 예약 / 사원증 및 명함 지참",
+    "reservationMethod": "전화 또는 홈페이지 개별문의 및 예약 / 사원증 및 명함 지참",
+    "phone": "624 041-582",
+    "phoneSecondary": "",
+    "website": "http://www.monamour.kr/",
+    "roadAddress": "아산모나무르(복합문화공간)",
+    "addressNote": "",
+    "description": "물, 빛 그리고 소리의 힐링 공간",
+    "hasCredentials": false,
+    "sortOrder": 48,
+    "slideNumber": 51
+  },
+  {
+    "id": 50,
+    "name": "뚜띠쿠치나 아산점",
+    "category": "FOOD",
+    "categoryLabel": "음식",
+    "categoryGroup": "기타",
+    "targets": [
+      {
+        "type": "STUDENT",
+        "label": "재학생"
+      },
+      {
+        "type": "FACULTY",
+        "label": "교직원"
+      }
+    ],
+    "benefitSummary": "예약 방법 전화 또는 홈페이지 개별문의 및 예약 / 사원증 및 명함 지참",
+    "reservationMethod": "전화 또는 홈페이지 개별문의 및 예약 / 사원증 및 명함 지참",
+    "phone": "0507-1476-338",
+    "phoneSecondary": "",
+    "website": "http://www.tutticucina.net/",
+    "roadAddress": "아산시 탕정면 선문로 265-7, 1층",
+    "addressNote": "",
+    "description": "전체 이용요금의 10%(이벤트 상품 및 중복 할인 불가)",
+    "hasCredentials": false,
+    "sortOrder": 49,
+    "slideNumber": 52
+  },
+  {
+    "id": 51,
+    "name": "YGOON 교육할인스토어",
+    "category": "SHOPPING",
+    "categoryLabel": "쇼핑",
+    "categoryGroup": "기타",
+    "targets": [
+      {
+        "type": "FACULTY",
+        "label": "교직원"
+      }
+    ],
+    "benefitSummary": "",
+    "reservationMethod": "선문대학교 포털사이트 우측 하단 → 개별 회원가",
+    "phone": "02-517-2552",
+    "phoneSecondary": "",
+    "website": "https://www.ygoon.com/mall/",
+    "roadAddress": "",
+    "addressNote": "",
+    "description": "유명 브랜드 제품을 교육용 목적으로 할인",
+    "hasCredentials": false,
+    "sortOrder": 50,
+    "slideNumber": 53
+  },
+  {
+    "id": 52,
+    "name": "선문베네핏몰",
+    "category": "SHOPPING",
+    "categoryLabel": "쇼핑",
+    "categoryGroup": "기타",
+    "targets": [
+      {
+        "type": "FACULTY",
+        "label": "교직원"
+      }
+    ],
+    "benefitSummary": "",
+    "reservationMethod": "선문대학교 포털사이트 우측 하단 → 개별 회원가",
+    "phone": "",
+    "phoneSecondary": "",
+    "website": "",
+    "roadAddress": "",
+    "addressNote": "",
+    "description": "",
+    "hasCredentials": false,
+    "sortOrder": 51,
+    "slideNumber": 54
+  },
+  {
+    "id": 53,
+    "name": "현대옥 아산탕정점",
+    "category": "FOOD",
+    "categoryLabel": "음식",
+    "categoryGroup": "기타",
+    "targets": [
+      {
+        "type": "FACULTY",
+        "label": "교직원"
+      },
+      {
+        "type": "STUDENT",
+        "label": "재학생"
+      }
+    ],
+    "benefitSummary": "대표메뉴(식사류 한정) 10% 할인",
+    "reservationMethod": "사원증 및 명함(학생증) 지참",
+    "phone": "",
+    "phoneSecondary": "",
+    "website": "",
+    "roadAddress": "아산시 탕정면 (상세주소 확인 필요)",
+    "addressNote": "",
+    "description": "'음식'을 통하여 세상과 소통하는 식당",
+    "hasCredentials": false,
+    "sortOrder": 52,
+    "slideNumber": 55
+  },
+  {
+    "id": 54,
+    "name": "365아홉가지약속치과 탕정점",
+    "category": "HOSPITAL_DENTAL",
+    "categoryLabel": "병원/치과",
+    "categoryGroup": "병원",
+    "targets": [
+      {
+        "type": "STUDENT",
+        "label": "재학생"
+      },
+      {
+        "type": "FACULTY",
+        "label": "교직원"
+      }
+    ],
+    "benefitSummary": "예약 방법 전화 또는 홈페이지 개별문의 및 예약 / 사원증 및 명함 지참",
+    "reservationMethod": "전화 또는 홈페이지 개별문의 및 예약 / 사원증 및 명함 지참",
+    "phone": "041-542-2879",
+    "phoneSecondary": "",
+    "website": "https://9promise.com/landing_p",
+    "roadAddress": "충남 아산시 탕정면 한들물빛6로 46 6층",
+    "addressNote": "",
+    "description": "더 좋은 진료를 위해 끊임없이 노력하는 치과",
+    "hasCredentials": false,
+    "sortOrder": 53,
+    "slideNumber": 56
+  },
+  {
+    "id": 55,
+    "name": "골프킹",
+    "category": "FITNESS",
+    "categoryLabel": "운동",
+    "categoryGroup": "기타",
+    "targets": [
+      {
+        "type": "STUDENT",
+        "label": "재학생"
+      },
+      {
+        "type": "FACULTY",
+        "label": "교직원"
+      }
+    ],
+    "benefitSummary": "예약 방법 전화 또는 홈페이지 개별문의 및 예약 / 사원증 및 명함 지참",
+    "reservationMethod": "전화 또는 홈페이지 개별문의 및 예약 / 사원증 및 명함 지참",
+    "phone": "0507-1367-890",
+    "phoneSecondary": "",
+    "website": "",
+    "roadAddress": "충남 최초 최점단 분석기＇스펙트럼＇보유 골프연습장",
+    "addressNote": "",
+    "description": "",
+    "hasCredentials": false,
+    "sortOrder": 54,
+    "slideNumber": 57
+  },
+  {
+    "id": 56,
+    "name": "농촌뜨락 협동조합",
+    "category": "FOOD",
+    "categoryLabel": "음식",
+    "categoryGroup": "기타",
+    "targets": [
+      {
+        "type": "FACULTY",
+        "label": "교직원"
+      }
+    ],
+    "benefitSummary": "예약 방법 전화 또는 홈페이지 개별문의 및 예약 / 사원증 및 명함 지참",
+    "reservationMethod": "전화 또는 홈페이지 개별문의 및 예약 / 사원증 및 명함 지참",
+    "phone": "010-2914-0848",
+    "phoneSecondary": "",
+    "website": "http://nctr.oeam.co.kr/main/",
+    "roadAddress": "충남 아산시 송악면 강당리 108-8",
+    "addressNote": "",
+    "description": "자연속의 여유, 전통마을의 정취!",
+    "hasCredentials": false,
+    "sortOrder": 55,
+    "slideNumber": 58
+  },
+  {
+    "id": 57,
+    "name": "삼성미라클안과",
+    "category": "HOSPITAL_OPHTH",
+    "categoryLabel": "병원/안과",
+    "categoryGroup": "병원",
+    "targets": [
+      {
+        "type": "FACULTY_FAMILY",
+        "label": "직계가족"
+      },
+      {
+        "type": "STUDENT",
+        "label": "재학생"
+      },
+      {
+        "type": "FACULTY",
+        "label": "교직원"
+      }
+    ],
+    "benefitSummary": "예약 방법 전화 또는 홈페이지 개별문의 및 예약 / 사원증, 학생증 또는 증명서 지참",
+    "reservationMethod": "전화 또는 홈페이지 개별문의 및 예약 / 사원증, 학생증 또는 증명서 지참",
+    "phone": "041-576-0022",
+    "phoneSecondary": "",
+    "website": "https://ca.samsungmiracle.co.kr/",
+    "roadAddress": "충청남도 천안시 서북구 충무로 125, 2층",
+    "addressNote": "",
+    "description": "신뢰할 수 있는 병원, 믿고 맡길 수 있는 안과. 당신의 두 눈에 기적",
+    "hasCredentials": false,
+    "sortOrder": 56,
+    "slideNumber": 59
+  },
+  {
+    "id": 58,
+    "name": "성심정신건강의학과의원",
+    "category": "HOSPITAL_MENTAL",
+    "categoryLabel": "병원/정신건강",
+    "categoryGroup": "병원",
+    "targets": [
+      {
+        "type": "ALL_UNIVERSITY",
+        "label": "선문대 전체"
+      }
+    ],
+    "benefitSummary": "예약 방법 전화 또는 홈페이지 개별문의 및 예약",
+    "reservationMethod": "전화 또는 홈페이지 개별문의 및 예약",
+    "phone": "041-548-4370",
+    "phoneSecondary": "",
+    "website": "",
+    "roadAddress": "충남 아산시 온천동 222-1",
+    "addressNote": "",
+    "description": "학습활동, 상호 교류협력 지원",
+    "hasCredentials": false,
+    "sortOrder": 57,
+    "slideNumber": 60
+  },
+  {
+    "id": 59,
+    "name": "압구정KM성형외과",
+    "category": "HOSPITAL_PLASTIC",
+    "categoryLabel": "병원/성형",
+    "categoryGroup": "병원",
+    "targets": [
+      {
+        "type": "TRAINEE",
+        "label": "교육생"
+      },
+      {
+        "type": "STUDENT",
+        "label": "재학생"
+      },
+      {
+        "type": "FACULTY",
+        "label": "교직원"
+      }
+    ],
+    "benefitSummary": "예약 방법 전화 또는 홈페이지 개별문의 및 예약 / 사원증(학생증) 또는 증명서 지참",
+    "reservationMethod": "전화 또는 홈페이지 개별문의 및 예약 / 사원증(학생증) 또는 증명서 지참",
+    "phone": "041-572-7185",
+    "phoneSecondary": "",
+    "website": "https://apgujeongkm.com/htm/",
+    "roadAddress": "충남 천안시 서북구 쌍용동 494-20",
+    "addressNote": "",
+    "description": "성형에 대한 남다른 실력과 자부심",
+    "hasCredentials": false,
+    "sortOrder": 58,
+    "slideNumber": 61
+  },
+  {
+    "id": 60,
+    "name": "연세온통증의학과",
+    "category": "HOSPITAL_PAIN",
+    "categoryLabel": "병원/통증의학",
+    "categoryGroup": "병원",
+    "targets": [
+      {
+        "type": "FACULTY",
+        "label": "교직원"
+      }
+    ],
+    "benefitSummary": "예약 방법 전화 또는 홈페이지 개별문의 및 예약 / 사원증 또는 증명서 지참",
+    "reservationMethod": "전화 또는 홈페이지 개별문의 및 예약 / 사원증 또는 증명서 지참",
+    "phone": "0507-1439-2026",
+    "phoneSecondary": "",
+    "website": "http://yonseionpain.co.kr/",
+    "roadAddress": "충남 아산시 탕정면 매곡리 1220",
+    "addressNote": "",
+    "description": "정확한 진단과 바른 진료로 백세까지 건강한 삶을 살아갈 수 있도록",
+    "hasCredentials": false,
+    "sortOrder": 59,
+    "slideNumber": 62
+  },
+  {
+    "id": 61,
+    "name": "우리삼성치과",
+    "category": "HOSPITAL_DENTAL",
+    "categoryLabel": "병원/치과",
+    "categoryGroup": "병원",
+    "targets": [
+      {
+        "type": "FOREIGN_STUDENT",
+        "label": "외국인 유학생"
+      }
+    ],
+    "benefitSummary": "예약 방법 전화 또는 홈페이지 개별문의 및 예약 / 학생증 또는 증명서 지참",
+    "reservationMethod": "전화 또는 홈페이지 개별문의 및 예약 / 학생증 또는 증명서 지참",
+    "phone": "041-533-2833",
+    "phoneSecondary": "",
+    "website": "http://www.wsamsdc.com/default/",
+    "roadAddress": "충남 아산시 탕정면 명암리 928-7",
+    "addressNote": "",
+    "description": "걱정없고 깨끗한 진료, 오직 환자만을 생각하는 바른 치과",
+    "hasCredentials": false,
+    "sortOrder": 60,
+    "slideNumber": 63
+  },
+  {
+    "id": 62,
+    "name": "진플란트치과의원",
+    "category": "HOSPITAL_DENTAL",
+    "categoryLabel": "병원/치과",
+    "categoryGroup": "병원",
+    "targets": [
+      {
+        "type": "FACULTY_FAMILY",
+        "label": "직계가족"
+      },
+      {
+        "type": "STUDENT",
+        "label": "재학생"
+      },
+      {
+        "type": "FACULTY",
+        "label": "교직원"
+      }
+    ],
+    "benefitSummary": "예약 방법 전화 또는 홈페이지 개별문의 및 예약 / 사원증, 학생증 또는 증명서 지참",
+    "reservationMethod": "전화 또는 홈페이지 개별문의 및 예약 / 사원증, 학생증 또는 증명서 지참",
+    "phone": "512 041-557",
+    "phoneSecondary": "",
+    "website": "http://jinplantdc.com/",
+    "roadAddress": "충남 천안시 동남구 청당동",
+    "addressNote": "",
+    "description": "변치 않는 신뢰, 진심을 다 해 진료하는 병원",
+    "hasCredentials": false,
+    "sortOrder": 61,
+    "slideNumber": 64
+  },
+  {
+    "id": 63,
+    "name": "충청남도천안의료원",
+    "category": "HOSPITAL_GENERAL",
+    "categoryLabel": "병원/일반",
+    "categoryGroup": "병원",
+    "targets": [
+      {
+        "type": "FACULTY",
+        "label": "교직원"
+      }
+    ],
+    "benefitSummary": "예약 방법 전화 또는 홈페이지 개별문의 및 예약 / 사원증 또는 증명서 지참",
+    "reservationMethod": "전화 또는 홈페이지 개별문의 및 예약 / 사원증 또는 증명서 지참",
+    "phone": "13 041-570",
+    "phoneSecondary": "",
+    "website": "https://www.camc.or.kr/index",
+    "roadAddress": "충청남도천안의료원",
+    "addressNote": "",
+    "description": "지역주민의 건강과 복지 증진을 위해 노력하는 병원.",
+    "hasCredentials": false,
+    "sortOrder": 62,
+    "slideNumber": 65
+  },
+  {
+    "id": 64,
+    "name": "롯데시네마 천안불당",
+    "category": "CULTURE",
+    "categoryLabel": "문화/레저",
+    "categoryGroup": "기타",
+    "targets": [
+      {
+        "type": "STUDENT",
+        "label": "재학생"
+      },
+      {
+        "type": "FACULTY",
+        "label": "교직원"
+      }
+    ],
+    "benefitSummary": "예약 방법 전화 또는 홈페이지 개별문의 및 예약",
+    "reservationMethod": "전화 또는 홈페이지 개별문의 및 예약",
+    "phone": "",
+    "phoneSecondary": "",
+    "website": "https://www.lottecinema.co.kr/",
+    "roadAddress": "충남 천안시 서북구 불당동 1537-2",
+    "addressNote": "",
+    "description": "pcmap.place.naver.com/theater/",
+    "hasCredentials": false,
+    "sortOrder": 63,
+    "slideNumber": 66
+  },
+  {
+    "id": 65,
+    "name": "바른손치과",
+    "category": "HOSPITAL_DENTAL",
+    "categoryLabel": "병원/치과",
+    "categoryGroup": "병원",
+    "targets": [
+      {
+        "type": "FACULTY_FAMILY",
+        "label": "직계가족"
+      },
+      {
+        "type": "FACULTY",
+        "label": "교직원"
+      }
+    ],
+    "benefitSummary": "예약 방법 전화 또는 홈페이지 개별문의 및 예약 / 사원증 또는 증명서 지참",
+    "reservationMethod": "전화 또는 홈페이지 개별문의 및 예약 / 사원증 또는 증명서 지참",
+    "phone": "041-544-2275",
+    "phoneSecondary": "",
+    "website": "https://www.barunsondental.com/",
+    "roadAddress": "충남 아산시 온천동 222-5",
+    "addressNote": "",
+    "description": "가족을 대하는 마음으로,진심과 정성을 전하는 치과",
+    "hasCredentials": false,
+    "sortOrder": 64,
+    "slideNumber": 67
+  },
+  {
+    "id": 66,
+    "name": "연세굿데이치과",
+    "category": "HOSPITAL_DENTAL",
+    "categoryLabel": "병원/치과",
+    "categoryGroup": "병원",
+    "targets": [
+      {
+        "type": "FACULTY_FAMILY",
+        "label": "직계가족"
+      },
+      {
+        "type": "FACULTY",
+        "label": "교직원"
+      }
+    ],
+    "benefitSummary": "예약 방법 전화 또는 홈페이지 개별문의 및 예약 / 사원증 또는 증명서 지참",
+    "reservationMethod": "전화 또는 홈페이지 개별문의 및 예약 / 사원증 또는 증명서 지참",
+    "phone": "010-9338-2279",
+    "phoneSecondary": "",
+    "website": "https://www.gooddaysmile.com/",
+    "roadAddress": "서울 서초구 양재동 14-1",
+    "addressNote": "",
+    "description": "열심히 연구하고 노력하여 경험을 쌓아 온 병원",
+    "hasCredentials": false,
+    "sortOrder": 65,
+    "slideNumber": 68
+  },
+  {
+    "id": 67,
+    "name": "연세뉴치과",
+    "category": "HOSPITAL_DENTAL",
+    "categoryLabel": "병원/치과",
+    "categoryGroup": "병원",
+    "targets": [
+      {
+        "type": "FACULTY_FAMILY",
+        "label": "직계가족"
+      },
+      {
+        "type": "FACULTY",
+        "label": "교직원"
+      }
+    ],
+    "benefitSummary": "예약 방법 전화 또는 홈페이지 개별문의 및 예약 / 사원증 또는 증명서 지참",
+    "reservationMethod": "전화 또는 홈페이지 개별문의 및 예약 / 사원증 또는 증명서 지참",
+    "phone": "0507-1469-2832",
+    "phoneSecondary": "",
+    "website": "https://blog.naver.com/",
+    "roadAddress": "충남 아산시 배방읍 장재리 1776",
+    "addressNote": "",
+    "description": "임플란트 25%, 보철15% 할인",
+    "hasCredentials": false,
+    "sortOrder": 66,
+    "slideNumber": 69
+  },
+  {
+    "id": 68,
+    "name": "연세온마취통증의학과의원",
+    "category": "HOSPITAL_PAIN",
+    "categoryLabel": "병원/통증의학",
+    "categoryGroup": "병원",
+    "targets": [
+      {
+        "type": "FACULTY",
+        "label": "교직원"
+      }
+    ],
+    "benefitSummary": "예약 방법 전화 또는 홈페이지 개별문의 및 예약 / 사원증 또는 증명서 지참",
+    "reservationMethod": "전화 또는 홈페이지 개별문의 및 예약 / 사원증 또는 증명서 지참",
+    "phone": "1220 0507-1439",
+    "phoneSecondary": "",
+    "website": "http://yonseionpain.co.kr/",
+    "roadAddress": "충남 아산시 탕정면 매곡리",
+    "addressNote": "",
+    "description": "마그비타 수액, 혈액검사 1회 무료, 도수치료 10%할인, 체외충격파 치료 10% 할인",
+    "hasCredentials": false,
+    "sortOrder": 67,
+    "slideNumber": 70
+  },
+  {
+    "id": 69,
+    "name": "천안 나안과",
+    "category": "HOSPITAL_OPHTH",
+    "categoryLabel": "병원/안과",
+    "categoryGroup": "병원",
+    "targets": [
+      {
+        "type": "STUDENT",
+        "label": "재학생"
+      },
+      {
+        "type": "FACULTY",
+        "label": "교직원"
+      }
+    ],
+    "benefitSummary": "예약 방법 전화 또는 홈페이지 개별문의 및 예약 / 사원증, 학생증 또는 증명서 지참",
+    "reservationMethod": "전화 또는 홈페이지 개별문의 및 예약 / 사원증, 학생증 또는 증명서 지참",
+    "phone": "041-563-3551",
+    "phoneSecondary": "",
+    "website": "https://www.naeye.co.kr/",
+    "roadAddress": "천안 나안과",
+    "addressNote": "",
+    "description": "소중한 당신의 눈 건강 주치의",
+    "hasCredentials": false,
+    "sortOrder": 68,
+    "slideNumber": 71
+  },
+  {
+    "id": 70,
+    "name": "천안자생한방병원",
+    "category": "HOSPITAL_ORIENTAL",
+    "categoryLabel": "병원/한방",
+    "categoryGroup": "병원",
+    "targets": [
+      {
+        "type": "FACULTY",
+        "label": "교직원"
+      }
+    ],
+    "benefitSummary": "예약 방법 전화 또는 홈페이지 개별문의 및 예약 / 사원증 또는 증명서 지참",
+    "reservationMethod": "전화 또는 홈페이지 개별문의 및 예약 / 사원증 또는 증명서 지참",
+    "phone": "041-1577-0007",
+    "phoneSecondary": "",
+    "website": "https://cheonan.jaseng.co.kr/",
+    "roadAddress": "천안자생한방병원",
+    "addressNote": "",
+    "description": "표준화, 과학과, 세계화된 치료법으로 전세계 비수술 척추치료를 선",
+    "hasCredentials": false,
+    "sortOrder": 69,
+    "slideNumber": 72
+  },
+  {
+    "id": 71,
+    "name": "탕정온천 더프라하스파",
+    "category": "ACCOMMODATION_SPA",
+    "categoryLabel": "스파/온천",
+    "categoryGroup": "숙박",
+    "targets": [
+      {
+        "type": "STUDENT",
+        "label": "재학생"
+      },
+      {
+        "type": "FACULTY",
+        "label": "교직원"
+      }
+    ],
+    "benefitSummary": "예약 방법 전화 또는 홈페이지 개별문의 및 예약 / 사원증, 학생증 또는 증명서 지참",
+    "reservationMethod": "전화 또는 홈페이지 개별문의 및 예약 / 사원증, 학생증 또는 증명서 지참",
+    "phone": "041-910-0542",
+    "phoneSecondary": "",
+    "website": "https://www.theprahaspa.com/",
+    "roadAddress": "충남 아산시 탕정면 용머리길 40 탕정온천 더프라하스파",
+    "addressNote": "",
+    "description": "",
+    "hasCredentials": false,
+    "sortOrder": 70,
+    "slideNumber": 73
+  },
+  {
+    "id": 72,
+    "name": "프라이드병원",
+    "category": "HOSPITAL_GENERAL",
+    "categoryLabel": "병원/일반",
+    "categoryGroup": "병원",
+    "targets": [
+      {
+        "type": "ALL_UNIVERSITY",
+        "label": "선문대 전체"
+      }
+    ],
+    "benefitSummary": "예약 방법 전화 또는 홈페이지 개별문의 및 예약 / 사원증 또는 증명서 지참",
+    "reservationMethod": "전화 또는 홈페이지 개별문의 및 예약 / 사원증 또는 증명서 지참",
+    "phone": "1724 041-911",
+    "phoneSecondary": "",
+    "website": "https://www.pridehospital.co.kr/",
+    "roadAddress": "충남 아산시 배방읍 북수리 1724",
+    "addressNote": "",
+    "description": "프로 운동선수들을 치료했던 최고 전문가들이 최고의 치료를 약속",
+    "hasCredentials": false,
+    "sortOrder": 71,
+    "slideNumber": 74
+  },
+  {
+    "id": 73,
+    "name": "지방부수리",
+    "category": "FITNESS",
+    "categoryLabel": "운동",
+    "categoryGroup": "기타",
+    "targets": [
+      {
+        "type": "STUDENT",
+        "label": "재학생"
+      },
+      {
+        "type": "FACULTY",
+        "label": "교직원"
+      }
+    ],
+    "benefitSummary": "예약 방법 전화 또는 홈페이지 개별문의 및 예약 / 사원증, 학생증 또는 증명서 지참",
+    "reservationMethod": "전화 또는 홈페이지 개별문의 및 예약 / 사원증, 학생증 또는 증명서 지참",
+    "phone": "684 0507-1344",
+    "phoneSecondary": "",
+    "website": "https://jibangbusuri.com/",
+    "roadAddress": "충남 천안시 서북구 불당동",
+    "addressNote": "",
+    "description": "대한민국 TOP 가장 높은 곳을 지향한다",
+    "hasCredentials": false,
+    "sortOrder": 72,
+    "slideNumber": 75
+  }
+]

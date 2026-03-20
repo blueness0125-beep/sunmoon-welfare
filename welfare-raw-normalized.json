@@ -1,0 +1,1349 @@
+[
+  {
+    "slide_number": 3,
+    "name": "용평리조트(그린피아)",
+    "raw_text": "용평리조트(그린피아)\n교직원 \n충남 보령시 웅천읍 열린바다1길 78 1588-0009 [1]\n대상\n혜택\n예약 방법\n인사총무팀 문의(041-530-2164)\n인사총무팀 문의(041-530-2164)\n숙박 \n아름다운 어머니 품과 같은 대자연 공간\nhttp://\nwww.yongpyong.co.kr",
+    "targets": [
+      "FACULTY"
+    ],
+    "target_raw": "혜택",
+    "benefit": "인사총무팀 문의로 예약",
+    "reservation_method": "인사총무팀 문의(041-530-2164)",
+    "phone": "1588-0009",
+    "phone_secondary": "041-530-2164",
+    "website": "http://www.yongpyong.co.kr",
+    "address": "충남 보령시 웅천읍 열린바다1길 78",
+    "category": "ACCOMMODATION_RESORT",
+    "has_credentials": false,
+    "description": "아름다운 어머니 품과 같은 대자연 공간",
+    "address_note": "⚠️ PPT 원본 주소가 보령시로 기재됨 - 실제 용평리조트는 강원도 평창군. 별도 시설 또는 오류 확인 필요"
+  },
+  {
+    "slide_number": 4,
+    "name": "여수디오션리조트",
+    "raw_text": "여수디오션리조트\n교직원 \n전남 여수시 소호로 295 1588-0009 [2]\n대상\n혜택\n예약 방법\n인사총무팀 문의(041-530-2164)\n인사총무팀 문의(041-530-2164)\n숙박 \n다도해를 항해하는 꿈같은 휴식\nhttps://theoceanresort.co.kr",
+    "targets": [
+      "FACULTY"
+    ],
+    "target_raw": "혜택",
+    "benefit": "인사총무팀 문의로 예약",
+    "reservation_method": "인사총무팀 문의(041-530-2164)",
+    "phone": "1588-0009",
+    "phone_secondary": "041-530-2164",
+    "website": "https://theoceanresort.co.kr",
+    "address": "전남 여수시 소호로 295",
+    "category": "ACCOMMODATION_RESORT",
+    "has_credentials": false,
+    "description": "다도해를 항해하는 꿈같은 휴식"
+  },
+  {
+    "slide_number": 5,
+    "name": "무창포 비체팰리스",
+    "raw_text": "무창포 비체팰리스\n교직원 \n충남 보령시 웅천읍 열린바다1길 78 1588-0009 [4]\n대상\n혜택\n예약 방법\n인사총무팀 문의(041-530-2164)\n인사총무팀 문의(041-530-2164)\n숙박 \n빛과 생명이 살아있는 해양리조트 비체팰리스\nhttp://\nwww.beachepalace.co.kr",
+    "targets": [
+      "FACULTY"
+    ],
+    "target_raw": "혜택",
+    "benefit": "인사총무팀 문의로 예약",
+    "reservation_method": "인사총무팀 문의(041-530-2164)",
+    "phone": "1588-0009",
+    "phone_secondary": "041-530-2164",
+    "website": "http://www.beachepalace.co.kr",
+    "address": "충남 보령시 웅천읍 열린바다1길 78",
+    "category": "ACCOMMODATION_RESORT",
+    "has_credentials": false,
+    "description": "빛과 생명이 살아있는 해양리조트 비체팰리스"
+  },
+  {
+    "slide_number": 6,
+    "name": "파인리즈리조트",
+    "raw_text": "파인리즈리조트\n교직원 \n강원도 고성군 토성면 잼버리동로 267 1577-6399\n대상\n혜택\n예약 방법\n인사총무팀 문의(041-530-2164)\n인사총무팀 문의(041-530-2164)\n숙박 \n특별한 골프이야기가 차고 넘치는 축복의 땅\nhttps://www.pineridge.co.kr/",
+    "targets": [
+      "FACULTY"
+    ],
+    "target_raw": "혜택",
+    "benefit": "인사총무팀 문의로 예약",
+    "reservation_method": "인사총무팀 문의(041-530-2164)",
+    "phone": "1577-6399",
+    "phone_secondary": "041-530-2164",
+    "website": "https://www.pineridge.co.kr/",
+    "address": "강원도 고성군 토성면 잼버리동로 267",
+    "category": "ACCOMMODATION_RESORT",
+    "has_credentials": false,
+    "description": "특별한 골프이야기가 차고 넘치는 축복의 땅"
+  },
+  {
+    "slide_number": 7,
+    "name": "일성콘도",
+    "raw_text": "일성콘도\n교직원 \n전국 다수 1566-8113\n대상\n혜택\n예약 방법\n숙박 \n설악온천, 제주비치, 경주보문, 남한강, 지리산, 무주, 부곡온천\nhttp://www.ilsungresort.co.kr\n홈페이지 우측 하단<법인예약>에서 개별 예약 진행 (아이디: 22226042 / 비밀번호: 6042)\n판매 객실료 기준: 60%~70%",
+    "targets": [
+      "FACULTY"
+    ],
+    "target_raw": "혜택",
+    "benefit": "판매 객실료 기준: 60%~70%",
+    "reservation_method": "홈페이지 우측 하단 <법인예약>에서 개별 예약 진행",
+    "phone": "1566-8113",
+    "phone_secondary": "",
+    "website": "http://www.ilsungresort.co.kr",
+    "address": "전국 다수 (설악온천, 제주비치, 경주보문, 남한강, 지리산, 무주, 부곡온천)",
+    "category": "ACCOMMODATION_RESORT",
+    "has_credentials": true,
+    "description": "설악온천, 제주비치, 경주보문, 남한강, 지리산, 무주, 부곡온천"
+  },
+  {
+    "slide_number": 8,
+    "name": "가평 모나캠핑파크",
+    "raw_text": "가평 모나캠핑파크\n교직원 \n경기도 가평군 상면 축령로 143 02-2000-5351\n대상\n혜택\n예약 방법\n판매 객실료 기준 –주중: 25%, 주말&공휴일: 20%\n전화 또는 홈페이지 개별 문의 및 예약 / 사원증 및 명함 지참\n숙박 \n워라벨에 최적화된 모나캠핑파크\nhttp://\nwww.monacampark.co.kr/",
+    "targets": [
+      "FACULTY"
+    ],
+    "target_raw": "혜택",
+    "benefit": "판매 객실료 기준 –주중: 25%, 주말&공휴일: 20%",
+    "reservation_method": "전화 또는 홈페이지 개별 문의 및 예약 / 사원증 및 명함 지참",
+    "phone": "02-2000-5351",
+    "phone_secondary": "",
+    "website": "http://www.monacampark.co.kr/",
+    "address": "경기도 가평군 상면 축령로 143",
+    "category": "ACCOMMODATION_CAMPING",
+    "has_credentials": false,
+    "description": "워라벨에 최적화된 모나캠핑파크"
+  },
+  {
+    "slide_number": 9,
+    "name": "신라스테이 천안",
+    "raw_text": "신라스테이 천안\n교직원\n천안시 서북구 동서대로 177 041-415-9000\n대상\n혜택\n예약 방법\n판매 객실료 기준: 56%~58%\n전화 또는 홈페이지 개별문의 및 예약 / 사원증 및 명함 지참\n숙박 \n최상의 휴식을 완성시켜드립니다\nhttps://shillastay.com/\ncheonan/",
+    "targets": [
+      "FACULTY"
+    ],
+    "target_raw": "혜택",
+    "benefit": "판매 객실료 기준: 56%~58%",
+    "reservation_method": "전화 또는 홈페이지 개별문의 및 예약 / 사원증 및 명함 지참",
+    "phone": "041-415-9000",
+    "phone_secondary": "",
+    "website": "https://shillastay.com/cheonan/",
+    "address": "천안시 서북구 동서대로 177",
+    "category": "ACCOMMODATION_HOTEL",
+    "has_credentials": false,
+    "description": "최상의 휴식을 완성시켜드립니다"
+  },
+  {
+    "slide_number": 10,
+    "name": "온양관광호텔",
+    "raw_text": "온양관광호텔\n교직원 \n충남 아산시 온천대로 1459 041-540-1004\n대상\n혜택\n예약 방법\n객실 40%, 대온천탕, 헬스클럽 20%\n전화 또는 홈페이지 개별문의 및 예약 / 사원증 및 명함 지참\n숙박 \n1300년 역사의 찬란한 온천 문화를 품은 관광호텔\nhttp://\nwww.onyanghotel.co.kr/",
+    "targets": [
+      "FACULTY"
+    ],
+    "target_raw": "혜택",
+    "benefit": "예약 방법",
+    "reservation_method": "객실 40%, 대온천탕, 헬스클럽 20%",
+    "phone": "1459 041-540",
+    "phone_secondary": "",
+    "website": "",
+    "address": "충남 아산시 온천대로 1459",
+    "category": "ACCOMMODATION_HOTEL",
+    "has_credentials": false,
+    "description": "객실 40%, 대온천탕, 헬스클럽 20%"
+  },
+  {
+    "slide_number": 11,
+    "name": "온양제일호텔",
+    "raw_text": "온양제일호텔\n교직원 \n충남 아산시 온천대로 1462 온양팔래스호텔 041-547-2500\n대상\n혜택\n예약 방법\n객실 47~50%, 온천사우타 30%(객실 이용시)\n전화 또는 홈페이지 개별문의 및 예약 / 사원증 및 명함 지참\n숙박 \n고객 한 분 한 분을 지극한 ‘정성’으로 모시는 호텔\nhttp://www.cheilhotel.co.kr/",
+    "targets": [
+      "FACULTY"
+    ],
+    "target_raw": "혜택",
+    "benefit": "예약 방법",
+    "reservation_method": "객실 47~50%, 온천사우타 30%(객실 이용시)",
+    "phone": "041-547-2500",
+    "phone_secondary": "",
+    "website": "http://www.cheilhotel.co.kr/",
+    "address": "충남 아산시 온천대로 1462 온양팔래스호텔",
+    "category": "ACCOMMODATION_HOTEL",
+    "has_credentials": false,
+    "description": "객실 47~50%, 온천사우타 30%(객실 이용시)"
+  },
+  {
+    "slide_number": 12,
+    "name": "아산 슈어스테이 호텔",
+    "raw_text": "아산 슈어스테이 호텔\n교직원 \n충남 아산시 탕정면 온샘로 32 041-548-3030\n대상\n혜택\n예약 방법\n객실 47~50%, 온천사우타 30%(객실 이용시)\n전화 또는 홈페이지 개별문의 및 예약 / 사원증 및 명함 지참\n숙박 \n전세계 고객님들을 만족시킨 슈어스테이 플러스만의 차별화된 서비스\nhttps://\nsurestayhotel.modoo.at/",
+    "targets": [
+      "FACULTY"
+    ],
+    "target_raw": "혜택",
+    "benefit": "예약 방법",
+    "reservation_method": "객실 47~50%, 온천사우타 30%(객실 이용시)",
+    "phone": "32 041-548",
+    "phone_secondary": "",
+    "website": "",
+    "address": "아산 슈어스테이 호텔",
+    "category": "ACCOMMODATION_HOTEL",
+    "has_credentials": false,
+    "description": "객실 47~50%, 온천사우타 30%(객실 이용시)"
+  },
+  {
+    "slide_number": 13,
+    "name": "천안 ON호텔그룹 (ON CITY & ON SMART)",
+    "raw_text": "041-563-8700\n천안 ON호텔그룹 (ON CITY & ON SMART)\n교직원 \n천안시 불당동 (3곳) 041-553-8080\n대상\n혜택\n예약 방법\n판매 객실료 기준: 30~60%\n전화 또는 홈페이지 개별문의 및 예약 / 사원증 및 명함 지참\n숙박 \n고객 여러분의 여행 과정이 더욱 아름다워질 수 있게 준비되어 있는 호텔\nwww.onsmarthotel.com\nON시 www.oncityhotel.com\nON티 스마\n트",
+    "targets": [
+      "FACULTY"
+    ],
+    "target_raw": "혜택",
+    "benefit": "판매 객실료 기준: 30~60%",
+    "reservation_method": "전화 또는 홈페이지 개별문의 및 예약 / 사원증 및 명함 지참",
+    "phone": "041-553-8080",
+    "phone_secondary": "041-563-8700",
+    "website": "www.onsmarthotel.com",
+    "address": "천안시 불당동 (3곳)",
+    "category": "ACCOMMODATION_HOTEL",
+    "has_credentials": false,
+    "description": "고객 여러분의 여행 과정이 더욱 아름다워질 수 있게 준비되어 있는 호텔"
+  },
+  {
+    "slide_number": 14,
+    "name": "천안 라마다앙코르바이윈덤 호텔",
+    "raw_text": "천안 라마다앙코르바이윈덤 호텔\n교직원 \n충남 천안시 서북구 차돌들길 12 041-570-3000\n대상\n혜택\n예약 방법\n주중: 62%, 주말(금,토): 56%\n전화 또는 홈페이지 개별문의 및 예약 / 사원증 및 명함 지참\n숙박 \n단 하루를 머물러도 영원히 기억되는 호텔\nhttp://ramada-encore.co.kr/",
+    "targets": [
+      "FACULTY"
+    ],
+    "target_raw": "혜택",
+    "benefit": "예약 방법",
+    "reservation_method": "주중: 62%, 주말(금,토): 56%",
+    "phone": "12 041-570",
+    "phone_secondary": "",
+    "website": "http://ramada-encore.co.kr/",
+    "address": "천안 라마다앙코르바이윈덤 호텔",
+    "category": "ACCOMMODATION_HOTEL",
+    "has_credentials": false,
+    "description": "주중: 62%, 주말(금,토): 56%"
+  },
+  {
+    "slide_number": 15,
+    "name": "하이원리조트",
+    "raw_text": "하이원리조트\n교직원 \n강원도 정성군 고한읍 하이원길 424 1588-7789\n대상\n혜택\n예약 방법\n판매 객실료 기준: 10~80% / 객실 점유율에 따라 상시 가격 변동\n선문대 교직원 전용 예약사이트에서 예약\nhttps://reserve.high1.com/res/co/userLoginProcess.do?gstGbn=1\n아이디: 선문대학교 / 비밀번호: high4444#\n숙박 \n즐거운 삶과 더 나은 세상을 만드는 행복 쉼터\nhttps://www.high1.com/",
+    "targets": [
+      "FACULTY"
+    ],
+    "target_raw": "혜택",
+    "benefit": "판매 객실료 기준: 10~80% / 객실 점유율에 따라 상시 가격 변동",
+    "reservation_method": "선문대 교직원 전용 예약사이트에서 예약",
+    "phone": "1588-7789",
+    "phone_secondary": "",
+    "website": "https://www.high1.com/",
+    "address": "강원도 정선군 고한읍 하이원길 424",
+    "category": "ACCOMMODATION_RESORT",
+    "has_credentials": true,
+    "description": "즐거운 삶과 더 나은 세상을 만드는 행복 쉼터"
+  },
+  {
+    "slide_number": 16,
+    "name": "해운대 씨클라우드 레지던스",
+    "raw_text": "해운대 씨클라우드 레지던스\n교직원 / 재학생 \n부산 해운대구 해운대해변로 287 010-3574-4312\n대상\n혜택\n예약 방법\n판매 객실료 기준: 40~80% / 주말, 성수기에 따라 금액 상이\n숙박 \n해운대 씨클라우드 호텔이 해운대 전망을 대신합니다\nhttp://\nwww.seacloudceo.com/\n전화 또는 홈페이지 개별문의 및 예약 / 사원증 및 명함 지참",
+    "targets": [
+      "FACULTY"
+    ],
+    "target_raw": "혜택",
+    "benefit": "예약 방법",
+    "reservation_method": "판매 객실료 기준: 40~80% / 주말, 성수기에 따라 금액 상이",
+    "phone": "287 010-3574",
+    "phone_secondary": "",
+    "website": "",
+    "address": "부산 해운대구 해운대해변로 287",
+    "category": "ACCOMMODATION_HOTEL",
+    "has_credentials": false,
+    "description": "판매 객실료 기준: 40~80% / 주말, 성수기에 따라 금액 상이"
+  },
+  {
+    "slide_number": 17,
+    "name": "제주 윈스토리호텔",
+    "raw_text": "제주 윈스토리호텔\n교직원 \n제주특별자치도 서귀포시 중정로11 064-741-0001\n대상\n혜택\n예약 방법\n판매 객실료 기준: 주중, 주말, 연휴 동일가 적용(5만 5천원 ~ 11만 5천원)\n숙박 \n즐거운 제주여행 이야기를 이어가기위한 여정의 일부분을 함께하는 호텔\nhttp://hotelwinstory.com/\n전화 또는 홈페이지 개별문의 및 예약 / 사원증 및 명함 지참",
+    "targets": [
+      "FACULTY"
+    ],
+    "target_raw": "혜택",
+    "benefit": "예약 방법",
+    "reservation_method": "판매 객실료 기준: 주중, 주말, 연휴 동일가 적용(5만 5천원 ~ 11만 5천원)",
+    "phone": "11 064-741",
+    "phone_secondary": "",
+    "website": "http://hotelwinstory.com/",
+    "address": "제주 윈스토리호텔",
+    "category": "ACCOMMODATION_HOTEL",
+    "has_credentials": false,
+    "description": "판매 객실료 기준: 주중, 주말, 연휴 동일가 적용(5만 5천원 ~ 11만 5천원)"
+  },
+  {
+    "slide_number": 18,
+    "name": "파라다이스 스파 도고",
+    "raw_text": "파라다이스 스파 도고\n교직원 \n충남 아산시 도고면 도고온천로 176 041-537-7100\n대상\n혜택\n예약 방법\n주중 주말 성수기: 40%, 카라반: 20%\n스파 \n자연이 만든 프리미엄 스파\nhttp://\nwww.paradisespa.co.kr/\n선문대학교 교직원 전용 예약사이트 회원가입 후 예약 진행\nhttp://biz.paradisespa.co.kr/Default.asp?MM=000&CC=Biz_837190816125656585",
+    "targets": [
+      "FACULTY"
+    ],
+    "target_raw": "혜택",
+    "benefit": "주중 주말 성수기: 40%, 카라반: 20%",
+    "reservation_method": "선문대학교 교직원 전용 예약사이트 회원가입 후 예약 진행",
+    "phone": "041-537-7100",
+    "phone_secondary": "837190816125",
+    "website": "http://www.paradisespa.co.kr/",
+    "address": "충남 아산시 도고면 도고온천로 176",
+    "category": "ACCOMMODATION_SPA",
+    "has_credentials": true,
+    "description": "자연이 만든 프리미엄 스파"
+  },
+  {
+    "slide_number": 19,
+    "name": "와이(Y)글램핑",
+    "raw_text": "와이(Y)글램핑\n교직원 및 재학생 \n충남 아산시 송악면 강당로115번길 12 0507-1329-8800\n대상\n혜택\n예약 방법\n주중: 20,000원/주말: 25,000원 할인 적용(현장 페이백)\n숙박 \n자연에서 즐기는 와이글램핑,\n 일상에서 지친 피로를 따뜻하게 품어드립니다.\nhttp://www.yglamping.co.kr/\n네이버 예약 또는 전화 예약",
+    "targets": [
+      "FACULTY"
+    ],
+    "target_raw": "혜택",
+    "benefit": "예약 방법",
+    "reservation_method": "주중: 20,000원/주말: 25,000원 할인 적용(현장 페이백)",
+    "phone": "12 0507-1329",
+    "phone_secondary": "",
+    "website": "http://www.yglamping.co.kr/",
+    "address": "충남 아산시 송악면 강당로115번길 12",
+    "category": "ACCOMMODATION_CAMPING",
+    "has_credentials": false,
+    "description": "주중: 20,000원/주말: 25,000원 할인 적용(현장 페이백)"
+  },
+  {
+    "slide_number": 20,
+    "name": "청심국제병원",
+    "raw_text": "청심국제병원\n교직원 및 직계가족\n경기도 가평군 설악면 미사리로 267-177 031-589-4300\n대상\n혜택\n예약 방법\n건강검진, 비급여 항목: 50%\n병원 / 일반\nhttp://www.hjmmc.or.kr/\n전화 또는 홈페이지 개별문의 및 예약 / 사원증 및 명함 지참\n홀리스틱 메디슨으로 치유와 휴식을 제공하는 글로벌 의료기관",
+    "targets": [
+      "FACULTY"
+    ],
+    "target_raw": "혜택",
+    "benefit": "예약 방법",
+    "reservation_method": "건강검진, 비급여 항목: 50%",
+    "phone": "267-177 031",
+    "phone_secondary": "",
+    "website": "http://www.hjmmc.or.kr/",
+    "address": "경기도 가평군 설악면 미사리로 267-177",
+    "category": "HOSPITAL_GENERAL",
+    "has_credentials": false,
+    "description": "건강검진, 비급여 항목: 50%"
+  },
+  {
+    "slide_number": 21,
+    "name": "천안충무병원",
+    "raw_text": "천안충무병원\n교직원 및 직계가족 / 재학생\n충남 천안시 서북구 다가말3길 8 041-570-7555\n대상\n혜택\n예약 방법\n비급여: 10% \n병원 / 일반\nhttp://www.cmhos.co.kr/\n전화 또는 홈페이지 개별문의 및 예약 / 사원증 및 명함 지참\n중부권 최대 종합병원, 13개의 전문화 센터",
+    "targets": [
+      "FACULTY"
+    ],
+    "target_raw": "혜택",
+    "benefit": "예약 방법",
+    "reservation_method": "비급여: 10%",
+    "phone": "041-570-7555",
+    "phone_secondary": "",
+    "website": "http://www.cmhos.co.kr/",
+    "address": "천안충무병원",
+    "category": "HOSPITAL_GENERAL",
+    "has_credentials": false,
+    "description": "중부권 최대 종합병원, 13개의 전문화 센터"
+  },
+  {
+    "slide_number": 22,
+    "name": "아산충무병원",
+    "raw_text": "아산충무병원\n교직원 및 직계가족 / 재학생\n아산시 모종동 432-2 041-536-6666\n대상\n혜택\n예약 방법\n비급여: 10% \n병원 / 일반\n환자를 가족처럼 모시는 환자중심병원\nhttps://www.asancm.co.kr\n전화 또는 홈페이지 개별문의 및 예약 / 사원증 및 명함 지참",
+    "targets": [
+      "FACULTY"
+    ],
+    "target_raw": "혜택",
+    "benefit": "예약 방법",
+    "reservation_method": "비급여: 10%",
+    "phone": "041-536-6666",
+    "phone_secondary": "",
+    "website": "https://www.asancm.co.kr",
+    "address": "아산충무병원",
+    "category": "HOSPITAL_GENERAL",
+    "has_credentials": false,
+    "description": "환자를 가족처럼 모시는 환자중심병원"
+  },
+  {
+    "slide_number": 23,
+    "name": "천안우리병원",
+    "raw_text": "천안우리병원\n교직원 및 직계가족 / 재학생\n충남 천안시 동남구 남부대로 350 041-590-9000\n대상\n혜택\n예약 방법\n비급여 항목 10%\n병원 / 일반\nhttp://spinewoori.com/\n전화 또는 홈페이지 개별문의 및 예약 / 사원증 및 명함 지참\n정확한 진료와 보살핌을 전하는 사랑의 매개체가 되겠습니다",
+    "targets": [
+      "FACULTY"
+    ],
+    "target_raw": "혜택",
+    "benefit": "예약 방법",
+    "reservation_method": "비급여 항목 10%",
+    "phone": "350 041-590",
+    "phone_secondary": "",
+    "website": "http://spinewoori.com/",
+    "address": "천안우리병원",
+    "category": "HOSPITAL_GENERAL",
+    "has_credentials": false,
+    "description": "정확한 진료와 보살핌을 전하는 사랑의 매개체가 되겠습니다"
+  },
+  {
+    "slide_number": 24,
+    "name": "이화병원",
+    "raw_text": "이화병원\n교직원 및 직계가족\n충남 천안시 서북구 충무로 165 041-579-1400\n대상\n혜택\n예약 방법\n본인부담금: 10%(비급여 3만원 초과시)\n병원 / 일반\n사람과 사람, 오늘과 내일\n 그리고 생명의 소중함을 아는 이화병원이 더 좋은 내일을 만들어갑니다\nhttp://\nwww.ewhahospital.com/\n전화 또는 홈페이지 개별문의 및 예약 / 사원증 및 명함 지참",
+    "targets": [
+      "FACULTY"
+    ],
+    "target_raw": "혜택",
+    "benefit": "예약 방법",
+    "reservation_method": "본인부담금: 10%(비급여 3만원 초과시)",
+    "phone": "165 041-579",
+    "phone_secondary": "",
+    "website": "",
+    "address": "충남 천안시 서북구 충무로 165",
+    "category": "HOSPITAL_GENERAL",
+    "has_credentials": false,
+    "description": "본인부담금: 10%(비급여 3만원 초과시)"
+  },
+  {
+    "slide_number": 25,
+    "name": "서울대정병원",
+    "raw_text": "서울대정병원\n교직원 및 직계가족\n천안시 서북구 불당33길 18 041-415-0001\n대상\n혜택\n예약 방법\n비급여 항목: 10%\n병원 / 일반\n시작부터 바른 생각을 가진 사람들의 바른 병원\nhttp://sdjhospital.com/\n전화 또는 홈페이지 개별문의 및 예약 / 사원증 및 명함 지참",
+    "targets": [
+      "FACULTY"
+    ],
+    "target_raw": "혜택",
+    "benefit": "예약 방법",
+    "reservation_method": "비급여 항목: 10%",
+    "phone": "18 041-415",
+    "phone_secondary": "",
+    "website": "http://sdjhospital.com/",
+    "address": "서울대정병원",
+    "category": "HOSPITAL_GENERAL",
+    "has_credentials": false,
+    "description": "시작부터 바른 생각을 가진 사람들의 바른 병원"
+  },
+  {
+    "slide_number": 26,
+    "name": "대전대학교 천안한방병원",
+    "raw_text": "대전대학교 천안한방병원\n교직원 및 직계가족\n천안시 서북구 노태산로 4 041-521-7210\n대상\n혜택\n예약 방법\n첩약 10%\n병원 / 일반\n대전대학교 한의과대학 교수가 직접 책임진료합니다.\nhttps://www.djuca.or.kr\n전화 또는 홈페이지 개별문의 및 예약 / 사원증 및 명함 지참",
+    "targets": [
+      "FACULTY"
+    ],
+    "target_raw": "혜택",
+    "benefit": "예약 방법",
+    "reservation_method": "첩약 10%",
+    "phone": "041-521-7210",
+    "phone_secondary": "",
+    "website": "https://www.djuca.or.kr",
+    "address": "천안시 서북구 노태산로 4",
+    "category": "HOSPITAL_ORIENTAL",
+    "has_credentials": false,
+    "description": "대전대학교 한의과대학 교수가 직접 책임진료합니다."
+  },
+  {
+    "slide_number": 27,
+    "name": "바른내과의원",
+    "raw_text": "바른내과의원\n교직원 및 직계가족 / 재학생\n아산시 탕정면 탕정면로 20 041-549-7738\n대상\n혜택\n예약 방법\n일부 비급여 항목: 10% / 각종 예방접종: 10%\n병원 / 일반\n바르고 정직한 진료를 바탕으로 환자의 건강과 행복을 추구합니다\nhttp://bareunim.com/\n전화 또는 홈페이지 개별문의 및 예약 / 사원증 및 명함 지참",
+    "targets": [
+      "FACULTY"
+    ],
+    "target_raw": "혜택",
+    "benefit": "예약 방법",
+    "reservation_method": "일부 비급여 항목: 10% / 각종 예방접종: 10%",
+    "phone": "20 041-549",
+    "phone_secondary": "",
+    "website": "http://bareunim.com/",
+    "address": "아산시 탕정면 탕정면로 20",
+    "category": "HOSPITAL_GENERAL",
+    "has_credentials": false,
+    "description": "일부 비급여 항목: 10% / 각종 예방접종: 10%"
+  },
+  {
+    "slide_number": 28,
+    "name": "상쾌항외과의원",
+    "raw_text": "상쾌항외과의원\n교직원 및 직계가족 / 재학생\n충남 아산시 배방읍 고속철대로 147 우성메디피아\n501호\n041-568-3600\n대상\n혜택\n예약 방법\n비급여 항목: 15%\n병원 / 일반\n믿을 수 있는 상쾌항외과\nhttp://www.freshhang.com/\n전화 또는 홈페이지 개별문의 및 예약 / 사원증 및 명함 지참",
+    "targets": [
+      "FACULTY"
+    ],
+    "target_raw": "혜택",
+    "benefit": "예약 방법",
+    "reservation_method": "비급여 항목: 15%",
+    "phone": "041-568-3600",
+    "phone_secondary": "",
+    "website": "http://www.freshhang.com/",
+    "address": "충남 아산시 배방읍 고속철대로 147 우성메디피아",
+    "category": "HOSPITAL_GENERAL",
+    "has_credentials": false,
+    "description": ""
+  },
+  {
+    "slide_number": 29,
+    "name": "꿈을이루는 수치과",
+    "raw_text": "꿈을이루는 수치과\n교직원 및 직계가족 / 재학생\n아산시 배방읍 장재리 1755 우성메디피아 4층 041-556-2282\n대상\n혜택\n예약 방법\n비급여 항목: 10%\n병원 / 치과\nhttp://\nwww.sudentalclinic.com/\n전화 또는 홈페이지 개별문의 및 예약 / 사원증 및 명함 지참\n아름다운 치아, 건강한 미소에 대한 당신을 꿈을 이루는 수치과",
+    "targets": [
+      "FACULTY"
+    ],
+    "target_raw": "혜택",
+    "benefit": "예약 방법",
+    "reservation_method": "비급여 항목: 10%",
+    "phone": "041-556-2282",
+    "phone_secondary": "",
+    "website": "",
+    "address": "아산시 배방읍 장재리 1755 우성메디피아 4층",
+    "category": "HOSPITAL_DENTAL",
+    "has_credentials": false,
+    "description": "www.sudentalclinic.com/"
+  },
+  {
+    "slide_number": 30,
+    "name": "더보스톤치과",
+    "raw_text": "더보스톤치과\n교직원 및 직계가족 / 재학생\n충남 천안시 서북구 불당33길 26 041-555-2879\n대상\n혜택\n예약 방법\n임플란트, 교정: 40~60%, 비급여 항목: 20%\n병원 / 치과\nhttp://www.theboston.co.kr/\n전화 또는 홈페이지 개별문의 및 예약 / 사원증 및 명함 지참\n더 정확하게, 더 이쁘게, 더 합리적인",
+    "targets": [
+      "FACULTY"
+    ],
+    "target_raw": "혜택",
+    "benefit": "예약 방법",
+    "reservation_method": "임플란트, 교정: 40~60%, 비급여 항목: 20%",
+    "phone": "26 041-555",
+    "phone_secondary": "",
+    "website": "http://www.theboston.co.kr/",
+    "address": "충남 천안시 서북구 불당33길",
+    "category": "HOSPITAL_DENTAL",
+    "has_credentials": false,
+    "description": "임플란트, 교정: 40~60%, 비급여 항목: 20%"
+  },
+  {
+    "slide_number": 31,
+    "name": "보스톤연합치과",
+    "raw_text": "보스톤연합치과\n교직원 및 직계가족 / 재학생\n충청남도 천안시 서북구 백석로 85-4 3층 041-555-7528\n대상\n혜택\n예약 방법\n임플란트: 40%, 비급여 항목: 20%\n병원 / 치과\nhttps://\nchonandentalclinic.modoo.at/\n전화 또는 홈페이지 개별문의 및 예약 / 사원증 및 명함 지참\n풍부한 경험의 의료진들, 특수장비를 이용한 맞춤 시술, 넓고 편안한 공간",
+    "targets": [
+      "FACULTY"
+    ],
+    "target_raw": "혜택",
+    "benefit": "예약 방법",
+    "reservation_method": "임플란트: 40%, 비급여 항목: 20%",
+    "phone": "041-555-7528",
+    "phone_secondary": "",
+    "website": "",
+    "address": "충청남도 천안시 서북구 백석로 85-4 3층",
+    "category": "HOSPITAL_DENTAL",
+    "has_credentials": false,
+    "description": "임플란트: 40%, 비급여 항목: 20%"
+  },
+  {
+    "slide_number": 32,
+    "name": "서울미프로치과",
+    "raw_text": "서울미프로치과\n교직원 및 직계가족 / 재학생\n서울특별시 강남구 삼성로133길 8 02-516-2833\n대상\n혜택\n예약 방법\n비급여 항목: 30%, 구강건강검진 진행\n병원 / 치과\n전화 또는 홈페이지 개별문의 및 예약 / 사원증 및 명함 지참",
+    "targets": [
+      "FACULTY"
+    ],
+    "target_raw": "혜택",
+    "benefit": "예약 방법",
+    "reservation_method": "비급여 항목: 30%, 구강건강검진 진행",
+    "phone": "02-516-2833",
+    "phone_secondary": "",
+    "website": "",
+    "address": "서울미프로치과",
+    "category": "HOSPITAL_DENTAL",
+    "has_credentials": false,
+    "description": "비급여 항목: 30%, 구강건강검진 진행"
+  },
+  {
+    "slide_number": 33,
+    "name": "서울바르다치과",
+    "raw_text": "서울바르다치과\n교직원 및 직계가족 / 재학생\n천안시 서북구 공원로 176, 상가 2층 041-414-2835\n대상\n혜택\n예약 방법\n비급여 항목: 10%\n병원 / 치과\nhttps://bardadental.modoo.at/\n전화 또는 홈페이지 개별문의 및 예약 / 사원증 및 명함 지참\n환자의 구강건강을 최우선으로 생각하는 치과",
+    "targets": [
+      "FACULTY"
+    ],
+    "target_raw": "혜택",
+    "benefit": "예약 방법",
+    "reservation_method": "비급여 항목: 10%",
+    "phone": "041-414-2835",
+    "phone_secondary": "",
+    "website": "https://bardadental.modoo.at/",
+    "address": "서울바르다치과",
+    "category": "HOSPITAL_DENTAL",
+    "has_credentials": false,
+    "description": "환자의 구강건강을 최우선으로 생각하는 치과"
+  },
+  {
+    "slide_number": 34,
+    "name": "연세우일치과병원",
+    "raw_text": "연세우일치과병원\n교직원 및 직계가족 / 재학생\n충남 천안시 서북구 서부대로 350 연세우일치과병원 0507-1388-2245\n대상\n혜택\n예약 방법\n임플란트: 15% 할인, 일반진료: 20%\n병원 / 치과\nhttp://yonseiwooil.com/\n전화 또는 홈페이지 개별문의 및 예약 / 사원증 및 명함 지참\n사랑을 나눔으로 보답하는 치과",
+    "targets": [
+      "FACULTY"
+    ],
+    "target_raw": "혜택",
+    "benefit": "예약 방법",
+    "reservation_method": "임플란트: 15% 할인, 일반진료: 20%",
+    "phone": "0507-1388-2245",
+    "phone_secondary": "",
+    "website": "http://yonseiwooil.com/",
+    "address": "충남 천안시 서북구 서부대로 350 연세우일치과병원",
+    "category": "HOSPITAL_DENTAL",
+    "has_credentials": false,
+    "description": "임플란트: 15% 할인, 일반진료: 20%"
+  },
+  {
+    "slide_number": 35,
+    "name": "연세이앤이치과",
+    "raw_text": "연세이앤이치과\n교직원 및 직계가족\n충청남도 아산시 번영로 204 2층 041-548-8828\n대상\n혜택\n예약 방법\n비급여 항목: 15%~50%\n병원 / 치과\nhttps://blog.naver.com/ysenedc\n전화 또는 홈페이지 개별문의 및 예약 / 사원증 및 명함 지참\n언제나 열려있는 치과, 마음을 치유해드리는 치과",
+    "targets": [
+      "FACULTY"
+    ],
+    "target_raw": "혜택",
+    "benefit": "예약 방법",
+    "reservation_method": "비급여 항목: 15%~50%",
+    "phone": "041-548-8828",
+    "phone_secondary": "",
+    "website": "https://blog.naver.com/ysenedc",
+    "address": "충청남도 아산시 번영로 204 2층",
+    "category": "HOSPITAL_DENTAL",
+    "has_credentials": false,
+    "description": "언제나 열려있는 치과, 마음을 치유해드리는 치과"
+  },
+  {
+    "slide_number": 36,
+    "name": "우리삼성치과",
+    "raw_text": "우리삼성치과\n교직원 및 직계가족\n충청남도 아산시 탕정면 탕정면로22번길 11 2층 우\n리삼성치과\n0507-1317-2833\n대상\n혜택\n예약 방법\n전체 항목: 5~25%\n병원 / 치과\nhttp://www.wsamsdc.com\n전화 또는 홈페이지 개별문의 및 예약 / 사원증 및 명함 지참\n걱정 없고 깨끗한 진료, 오직 환자만을 생각하는 바른 치과",
+    "targets": [
+      "FACULTY"
+    ],
+    "target_raw": "혜택",
+    "benefit": "예약 방법",
+    "reservation_method": "전체 항목: 5~25%",
+    "phone": "0507-1317-2833",
+    "phone_secondary": "",
+    "website": "http://www.wsamsdc.com",
+    "address": "충청남도 아산시 탕정면 탕정면로22번길 11 2층 우",
+    "category": "HOSPITAL_DENTAL",
+    "has_credentials": false,
+    "description": "걱정 없고 깨끗한 진료, 오직 환자만을 생각하는 바른 치과"
+  },
+  {
+    "slide_number": 37,
+    "name": "정호기치과",
+    "raw_text": "정호기치과\n교직원 및 직계가족\n충청남도 천안시 서북구 동서대로 135 4층 041-552-2275\n대상\n혜택\n예약 방법\n비급여 항목: 10%\n병원 / 치과\nhttps://www.facebook.com/\njunghokifamily/\n전화 또는 홈페이지 개별문의 및 예약 / 사원증 및 명함 지참\n가까이, 더 가까이",
+    "targets": [
+      "FACULTY"
+    ],
+    "target_raw": "혜택",
+    "benefit": "예약 방법",
+    "reservation_method": "비급여 항목: 10%",
+    "phone": "041-552-2275",
+    "phone_secondary": "",
+    "website": "https://www.facebook.com/",
+    "address": "충청남도 천안시 서북구 동서대로 135 4층",
+    "category": "HOSPITAL_DENTAL",
+    "has_credentials": false,
+    "description": ""
+  },
+  {
+    "slide_number": 38,
+    "name": "강남 밝은성모안과",
+    "raw_text": "강남 밝은성모안과\n교직원 및 직계가족 / 재학생\n강남점: 서울특별시 강남구 테헤란로 110 캠브리지\n빌딩 3층\n부산점: 부산광역시 부산진구 중앙대로 723 5층6\n0507-1408-1515/\n0507-1388-1522\n대상\n혜택\n예약 방법\n라식, 라섹, 드림렌즈 등: 30~58%\n병원 / 안과\nhttps://www.oklasik.com/new/\n전화 또는 홈페이지 개별문의 및 예약 / 사원증 및 명함 지참\n기본과 원칙을 지키는 안과",
+    "targets": [
+      "FACULTY"
+    ],
+    "target_raw": "혜택",
+    "benefit": "예약 방법",
+    "reservation_method": "라식, 라섹, 드림렌즈 등: 30~58%",
+    "phone": "0507-1408-1515",
+    "phone_secondary": "0507-1388-1522",
+    "website": "https://www.oklasik.com/new/",
+    "address": "부산점: 부산광역시 부산진구 중앙대로 723 5층6",
+    "category": "HOSPITAL_OPHTH",
+    "has_credentials": false,
+    "description": "강남점: 서울특별시 강남구 테헤란로 110 캠브리지"
+  },
+  {
+    "slide_number": 39,
+    "name": "서울하이안과",
+    "raw_text": "서울하이안과\n대상 교직원 및 직계가족 / 재학생\n혜택\n예약 방법\n전체 항목 10~49%\n병원 / 안과\n전화 또는 홈페이지 개별문의 및 예약 / 사원증 및 명함 지참\n맞춤 진료로 보이는 것 이상의 가치를 돌려드리겠습니다.\n서울 강남구 도산대로 119 2층, 3층 0507-1471-537 https://hieye.co.kr/\n7",
+    "targets": [
+      "FACULTY_FAMILY",
+      "STUDENT",
+      "FACULTY"
+    ],
+    "target_raw": "교직원 및 직계가족 / 재학생",
+    "benefit": "예약 방법",
+    "reservation_method": "전체 항목 10~49%",
+    "phone": "0507-1471-537",
+    "phone_secondary": "",
+    "website": "https://hieye.co.kr/",
+    "address": "서울하이안과",
+    "category": "HOSPITAL_OPHTH",
+    "has_credentials": false,
+    "description": "맞춤 진료로 보이는 것 이상의 가치를 돌려드리겠습니다."
+  },
+  {
+    "slide_number": 40,
+    "name": "천안김안과 신불당점",
+    "raw_text": "천안김안과 신불당점\n대상 교직원 및 직계가족\n혜택\n예약 방법\n수술에 필요한 검사비용 10% 할인 / 라식 및 라섹 수실 시 20~30% 할인 / 비급여 항목 10% 할인\n병원 / 안과\n전화 또는 홈페이지 개별문의 및 예약 / 사원증 및 명함 지참\n천안 김안과 42주년, 500만 환자 진료\n충남 천안시 서북구 불당33길 22 고은타워 4층 041-417-1115 https://kimeye119.co.kr/",
+    "targets": [
+      "FACULTY_FAMILY",
+      "FACULTY"
+    ],
+    "target_raw": "교직원 및 직계가족",
+    "benefit": "예약 방법",
+    "reservation_method": "수술에 필요한 검사비용 10% 할인 / 라식 및 라섹 수실 시 20~30% 할인 / 비급여 항목 10% 할인",
+    "phone": "041-417-1115",
+    "phone_secondary": "",
+    "website": "https://kimeye119.co.kr/",
+    "address": "천안김안과 신불당점",
+    "category": "HOSPITAL_OPHTH",
+    "has_credentials": false,
+    "description": "수술에 필요한 검사비용 10% 할인 / 라식 및 라섹 수실 시 20~30% 할인 / 비급여 항목 10% 할인"
+  },
+  {
+    "slide_number": 41,
+    "name": "천안김안과 천안역본점",
+    "raw_text": "천안김안과 천안역본점\n대상 교직원 및 직계가족 / 재학생\n혜택\n예약 방법\n라식, 라섹: 20~30% / 비급여 항목: 10% / 수술 검사 비용: 10~30%\n병원 / 안과\n전화 또는 홈페이지 개별문의 및 예약 / 사원증 및 명함 지참\n충청 중부권 지역 안과 중 40년 이상의 오랜 역사를 가진 안과\n충청남도 천안시 동남구 중앙로 92 041-551-1082 http://www.cheonankimeye.co.kr/",
+    "targets": [
+      "FACULTY_FAMILY",
+      "STUDENT",
+      "FACULTY"
+    ],
+    "target_raw": "교직원 및 직계가족 / 재학생",
+    "benefit": "예약 방법",
+    "reservation_method": "라식, 라섹: 20~30% / 비급여 항목: 10% / 수술 검사 비용: 10~30%",
+    "phone": "92 041-551",
+    "phone_secondary": "",
+    "website": "http://www.cheonankimeye.co.kr/",
+    "address": "천안김안과 천안역본점",
+    "category": "HOSPITAL_OPHTH",
+    "has_credentials": false,
+    "description": "라식, 라섹: 20~30% / 비급여 항목: 10% / 수술 검사 비용: 10~30%"
+  },
+  {
+    "slide_number": 42,
+    "name": "아산 밝은신안과",
+    "raw_text": "아산 밝은신안과\n대상 교직원 및 직계가족\n혜택\n예약 방법\n프리미엄 백내장 수술 10% 할인 / 성형안과 수술 및 치료 20% 할인 / 시력교정 수술 10% 할인\n병원 / 안과\n전화 또는 홈페이지 개별문의 및 예약 / 사원증 및 명함 지참\n사랑과 마음을 전하는 안과\n충남 아산시 온천대로 1492 041-547-1082 http://bs-iclinic.co.kr/",
+    "targets": [
+      "FACULTY_FAMILY",
+      "FACULTY"
+    ],
+    "target_raw": "교직원 및 직계가족",
+    "benefit": "예약 방법",
+    "reservation_method": "프리미엄 백내장 수술 10% 할인 / 성형안과 수술 및 치료 20% 할인 / 시력교정 수술 10% 할인",
+    "phone": "1492 041-547",
+    "phone_secondary": "",
+    "website": "http://bs-iclinic.co.kr/",
+    "address": "아산 밝은신안과",
+    "category": "HOSPITAL_OPHTH",
+    "has_credentials": false,
+    "description": "프리미엄 백내장 수술 10% 할인 / 성형안과 수술 및 치료 20% 할인 / 시력교정 수술 10% 할인"
+  },
+  {
+    "slide_number": 43,
+    "name": "이화피닉스요양병원",
+    "raw_text": "이화피닉스요양병원\n대상 교직원\n혜택\n예약 방법\n본인부담금: 10%, 비급여: 10%\n병원 / 요양병원\n전화 또는 홈페이지 개별문의 및 예약 / 사원증 및 명함 지참\n보호자가 일상에 전념할 수 있게 환자를 모시는 것\n충청남도 아산시 배방읍 배방산길 57-5 이화피닉스\n요양병원\n041-529-7000 http://www.ewhaphoenix.com/",
+    "targets": [
+      "FACULTY"
+    ],
+    "target_raw": "교직원",
+    "benefit": "예약 방법",
+    "reservation_method": "본인부담금: 10%, 비급여: 10%",
+    "phone": "041-529-7000",
+    "phone_secondary": "",
+    "website": "http://www.ewhaphoenix.com/",
+    "address": "충청남도 아산시 배방읍 배방산길 57-5 이화피닉스",
+    "category": "HOSPITAL_REHAB",
+    "has_credentials": false,
+    "description": "본인부담금: 10%, 비급여: 10%"
+  },
+  {
+    "slide_number": 44,
+    "name": "서울메디컬",
+    "raw_text": "서울메디컬\n대상 교직원 및 직계가족\n혜택\n예약 방법\n의료비 진료과별 ~최대49% 할인 혜택(병원: 약160개/진료 프로그램: 약650개)\n의료복지플랫폼\n서울메디컬 전담 예약센터 또는 카카오톡 medi3300 문의 후 예약 / 예약 시 “선문대학교“ 소속임을 꼭\n말씀해 주세요!\n기업 맞춤 의료복지 서비스, 서울메디컬\n서울특별시 강남구 언주로 432 타워432 7층 02-6486-3300 https://www.mediwelfare.net",
+    "targets": [
+      "FACULTY_FAMILY",
+      "FACULTY"
+    ],
+    "target_raw": "교직원 및 직계가족",
+    "benefit": "예약 방법",
+    "reservation_method": "의료비 진료과별 ~최대49% 할인 혜택(병원: 약160개/진료 프로그램: 약650개)",
+    "phone": "02-6486-3300",
+    "phone_secondary": "",
+    "website": "https://www.mediwelfare.net",
+    "address": "서울메디컬 전담 예약센터 또는 카카오톡 medi3300 문의 후 예약 / 예약 시 “선문대학교“ 소속임을 꼭",
+    "category": "MEDICAL_PLATFORM",
+    "has_credentials": false,
+    "description": "기업 맞춤 의료복지 서비스, 서울메디컬"
+  },
+  {
+    "slide_number": 45,
+    "name": "압구정 에스앤비안과",
+    "raw_text": "압구정 에스앤비안과\n대상 교직원 및 직계가족 / 재학생 (지인포함)\n혜택\n예약 방법\n수술에 필요한 검사비용 10% 할인 / 라식 및 라섹 수실 시 40~45% 할인 / 비급여 항목 10%~15%할\n인\n병원 / 안과\n제휴담당자(이창순 팀장)에게 개별 예약\n환자를 생각하는 병원, 항상 연구하는 병원, 최고를 향한 노력\n서울시 강남구 신사동 599 압구정빌딩 9층 010-9386-7786 https://www.snbeye.com",
+    "targets": [
+      "FACULTY_FAMILY",
+      "ACQUAINTANCE",
+      "STUDENT",
+      "FACULTY"
+    ],
+    "target_raw": "교직원 및 직계가족 / 재학생 (지인포함)",
+    "benefit": "예약 방법",
+    "reservation_method": "수술에 필요한 검사비용 10% 할인 / 라식 및 라섹 수실 시 40~45% 할인 / 비급여 항목 10%~15%할",
+    "phone": "010-9386-7786",
+    "phone_secondary": "",
+    "website": "https://www.snbeye.com",
+    "address": "서울시 강남구 신사동 599 압구정빌딩 9층",
+    "category": "HOSPITAL_OPHTH",
+    "has_credentials": false,
+    "description": "수술에 필요한 검사비용 10% 할인 / 라식 및 라섹 수실 시 40~45% 할인 / 비급여 항목 10%~15%할"
+  },
+  {
+    "slide_number": 46,
+    "name": "천안모아치과",
+    "raw_text": "천안모아치과\n대상 교직원 및 직계가족 / 재학생 (지인포함)\n혜택\n예약 방법\n임플란트 메가젠: 59만원, 오스템: 69만원 / 치아교정: 199만원 / 일반 진료 20%할인\n병원 / 치과\n전화 또는 홈페이지 개별문의 및 예약 / 사원증 및 명함 지참\n환자를 생각하는 병원, 항상 연구하는 병원, 최고를 향한 노력\n충남 천안시 서북구 충무로 201 월정빌딩 4층 041-579-7300 https://www.chmore.com",
+    "targets": [
+      "FACULTY_FAMILY",
+      "ACQUAINTANCE",
+      "STUDENT",
+      "FACULTY"
+    ],
+    "target_raw": "교직원 및 직계가족 / 재학생 (지인포함)",
+    "benefit": "예약 방법",
+    "reservation_method": "임플란트 메가젠: 59만원, 오스템: 69만원 / 치아교정: 199만원 / 일반 진료 20%할인",
+    "phone": "041-579-7300",
+    "phone_secondary": "",
+    "website": "https://www.chmore.com",
+    "address": "천안모아치과",
+    "category": "HOSPITAL_DENTAL",
+    "has_credentials": false,
+    "description": "임플란트 메가젠: 59만원, 오스템: 69만원 / 치아교정: 199만원 / 일반 진료 20%할인"
+  },
+  {
+    "slide_number": 47,
+    "name": "온양장례식장",
+    "raw_text": "온양장례식장\n대상 교직원\n혜택\n예약 방법\n접견실(특실,일반실): 48시간 기준 50% / 장의용품(수의, 관): 10% / 운구: 아산시내 무료, 그 외 지역\n50% 등\n전화 또는 홈페이지 개별문의 및 예약 / 사원증 및 명함 지참\n품격있는 장례시설과 차분함\n충청남도 아산시 곡교천로 171 온양장례식장 041-547-4444 http://onyangfuneralhall.com/\n장례",
+    "targets": [
+      "FACULTY"
+    ],
+    "target_raw": "교직원",
+    "benefit": "예약 방법",
+    "reservation_method": "접견실(특실,일반실): 48시간 기준 50% / 장의용품(수의, 관): 10% / 운구: 아산시내 무료, 그 외 지역",
+    "phone": "041-547-4444",
+    "phone_secondary": "",
+    "website": "http://onyangfuneralhall.com/",
+    "address": "충청남도 아산시 곡교천로 171 온양장례식장",
+    "category": "FUNERAL",
+    "has_credentials": false,
+    "description": "접견실(특실,일반실): 48시간 기준 50% / 장의용품(수의, 관): 10% / 운구: 아산시내 무료, 그 외 지역"
+  },
+  {
+    "slide_number": 48,
+    "name": "아산배방장례식장",
+    "raw_text": "아산배방장례식장\n대상 교직원 / 재학생\n혜택\n예약 방법\n장례식장 빈소 사용료: 50% / 기초생활수급자 및 차상위수급자: 화장용 수의 및 관 무료 / \n운구료 무료 및 학교 명의 제단꽃바구니 또는 헌화 제공\n전화 또는 홈페이지 개별문의 및 예약 / 사원증 및 명함 지참\n정성껏 모시겠습니다.\n충청남도 아산시 배방읍 갈산교로 38\n장례\n041-544-1500",
+    "targets": [
+      "STUDENT",
+      "FACULTY"
+    ],
+    "target_raw": "교직원 / 재학생",
+    "benefit": "예약 방법",
+    "reservation_method": "장례식장 빈소 사용료: 50% / 기초생활수급자 및 차상위수급자: 화장용 수의 및 관 무료 /",
+    "phone": "041-544-1500",
+    "phone_secondary": "",
+    "website": "",
+    "address": "아산배방장례식장",
+    "category": "FUNERAL",
+    "has_credentials": false,
+    "description": "장례식장 빈소 사용료: 50% / 기초생활수급자 및 차상위수급자: 화장용 수의 및 관 무료 /"
+  },
+  {
+    "slide_number": 49,
+    "name": "천안하늘공원 장례식장",
+    "raw_text": "천안하늘공원 장례식장\n대상 교직원\n혜택\n예약 방법\n접견실: 50% / 영결식장 & 초기 운구료 & 주차 무료 / 음식비용 할인 등\n전화 또는 홈페이지 개별문의 및 예약 / 사원증 및 명함 지참\n정성껏 모시겠습니다.\n충청남도 천안시 동남구 만남로 114\n장례\n041-553-8000",
+    "targets": [
+      "FACULTY"
+    ],
+    "target_raw": "교직원",
+    "benefit": "예약 방법",
+    "reservation_method": "접견실: 50% / 영결식장 & 초기 운구료 & 주차 무료 / 음식비용 할인 등",
+    "phone": "041-553-8000",
+    "phone_secondary": "",
+    "website": "",
+    "address": "천안하늘공원 장례식장",
+    "category": "FUNERAL",
+    "has_credentials": false,
+    "description": "접견실: 50% / 영결식장 & 초기 운구료 & 주차 무료 / 음식비용 할인 등"
+  },
+  {
+    "slide_number": 50,
+    "name": "천안국빈장례식장",
+    "raw_text": "천안국빈장례식장\n대상 교직원 / 재학생\n혜택\n예약 방법\n시설사용료(분향소/접객실) 50% 할인 / 장의용품 10% 할인(상조 이용 시 적용 불가) / \n생화 꽃 제단 또는 장의차량 20% 할인 / 3영결식장(발인실) 사용 및 관내 이송 무료 / 3단 근조 화한 서\n비스\n전화 또는 홈페이지 개별문의 및 예약 / 사원증 및 명함 지참\n전문가와 함께 진행하는 고품격 장례식\n천안시 동남구 풍세로 835 041-578-0082 http://boramcheonahn.com/\n장례",
+    "targets": [
+      "STUDENT",
+      "FACULTY"
+    ],
+    "target_raw": "교직원 / 재학생",
+    "benefit": "예약 방법",
+    "reservation_method": "시설사용료(분향소/접객실) 50% 할인 / 장의용품 10% 할인(상조 이용 시 적용 불가) /",
+    "phone": "835 041-578",
+    "phone_secondary": "",
+    "website": "http://boramcheonahn.com/",
+    "address": "천안국빈장례식장",
+    "category": "FUNERAL",
+    "has_credentials": false,
+    "description": "시설사용료(분향소/접객실) 50% 할인 / 장의용품 10% 할인(상조 이용 시 적용 불가) /"
+  },
+  {
+    "slide_number": 51,
+    "name": "아산모나무르(복합문화공간)",
+    "raw_text": "아산모나무르(복합문화공간)\n대상 교직원\n혜택\n예약 방법 전화 또는 홈페이지 개별문의 및 예약 / 사원증 및 명함 지참\n물, 빛 그리고 소리의 힐링 공간\n아산시 순천향로 624 041-582-1004 http://www.monamour.kr/\n더그린 카페: 음료, 주료 10% / 더레드 레스토랑: 전 메뉴 10% / 더골드 웨딩홀: 부케&코사지 SET서비스 제공, 모나\n무르 제휴 웨딩업체(스드메, 혼수 등) 이용시 업체별 혜택 제공 / 기업행사 및 세미나 진행 시 Tea break 20% 할인, \n50인 이상 오찬 및 만찬 시 2시간 무료 대관\n기타",
+    "targets": [
+      "FACULTY"
+    ],
+    "target_raw": "교직원",
+    "benefit": "예약 방법 전화 또는 홈페이지 개별문의 및 예약 / 사원증 및 명함 지참",
+    "reservation_method": "전화 또는 홈페이지 개별문의 및 예약 / 사원증 및 명함 지참",
+    "phone": "624 041-582",
+    "phone_secondary": "",
+    "website": "http://www.monamour.kr/",
+    "address": "아산모나무르(복합문화공간)",
+    "category": "CULTURE",
+    "has_credentials": false,
+    "description": "물, 빛 그리고 소리의 힐링 공간"
+  },
+  {
+    "slide_number": 52,
+    "name": "뚜띠쿠치나 아산점",
+    "raw_text": "뚜띠쿠치나 아산점\n대상 교직원 / 재학생\n혜택\n예약 방법 전화 또는 홈페이지 개별문의 및 예약 / 사원증 및 명함 지참\n지속가능한 맛집\n아산시 탕정면 선문로 265-7, 1층 0507-1476-338 http://www.tutticucina.net/\n2\n음식\n전체 이용요금의 10%(이벤트 상품 및 중복 할인 불가)",
+    "targets": [
+      "STUDENT",
+      "FACULTY"
+    ],
+    "target_raw": "교직원 / 재학생",
+    "benefit": "예약 방법 전화 또는 홈페이지 개별문의 및 예약 / 사원증 및 명함 지참",
+    "reservation_method": "전화 또는 홈페이지 개별문의 및 예약 / 사원증 및 명함 지참",
+    "phone": "0507-1476-338",
+    "phone_secondary": "",
+    "website": "http://www.tutticucina.net/",
+    "address": "아산시 탕정면 선문로 265-7, 1층",
+    "category": "FOOD",
+    "has_credentials": false,
+    "description": "전체 이용요금의 10%(이벤트 상품 및 중복 할인 불가)"
+  },
+  {
+    "slide_number": 53,
+    "name": "YGOON 교육할인스토어",
+    "raw_text": "YGOON 교육할인스토어\n대상 교직원\n예약 방법 선문대학교 포털사이트 우측 하단 → 개별 회원가\n입\n유명 브랜드 제품을 교육용 목적으로 할인\n기타\n홈페이지 https://www.ygoon.com/mall/\n전화 번호 02-517-2552",
+    "targets": [
+      "FACULTY"
+    ],
+    "target_raw": "교직원",
+    "benefit": "",
+    "reservation_method": "선문대학교 포털사이트 우측 하단 → 개별 회원가",
+    "phone": "02-517-2552",
+    "phone_secondary": "",
+    "website": "https://www.ygoon.com/mall/",
+    "address": "",
+    "category": "SHOPPING",
+    "has_credentials": false,
+    "description": "유명 브랜드 제품을 교육용 목적으로 할인"
+  },
+  {
+    "slide_number": 54,
+    "name": "선문베네핏몰",
+    "raw_text": "선문베네핏몰\n대상 교직원\n매주 새로운 초특가 상품\n기타\n홈페이지\n예약 방법 선문대학교 포털사이트 우측 하단 → 개별 회원가\n입\n전화 번호 1899-0522",
+    "targets": [
+      "FACULTY"
+    ],
+    "target_raw": "교직원",
+    "benefit": "",
+    "reservation_method": "선문대학교 포털사이트 우측 하단 → 개별 회원가",
+    "phone": "",
+    "phone_secondary": "",
+    "website": "",
+    "address": "",
+    "category": "SHOPPING",
+    "has_credentials": false,
+    "description": ""
+  },
+  {
+    "slide_number": 55,
+    "name": "현대옥 아산탕정점",
+    "raw_text": "현대옥 아산탕정점\n대상 교직원 및 재학생\n대표메뉴(식사류 한정) 10% 할인\n예약 방법 선문대학교 포털사이트 우측 하단 → 개별 회원가\n입\n전화 번호 1899-0522\n혜택\n‘음식’을 통하여 세상과 소통하는 식당\n음식",
+    "targets": [
+      "FACULTY",
+      "STUDENT"
+    ],
+    "target_raw": "교직원 및 재학생",
+    "benefit": "대표메뉴(식사류 한정) 10% 할인",
+    "reservation_method": "사원증 및 명함(학생증) 지참",
+    "phone": "",
+    "phone_secondary": "",
+    "website": "",
+    "address": "아산시 탕정면 (상세주소 확인 필요)",
+    "category": "FOOD",
+    "has_credentials": false,
+    "description": "'음식'을 통하여 세상과 소통하는 식당"
+  },
+  {
+    "slide_number": 56,
+    "name": "365아홉가지약속치과 탕정점",
+    "raw_text": "365아홉가지약속치과 탕정점\n대상 교직원 / 재학생\n혜택\n예약 방법 전화 또는 홈페이지 개별문의 및 예약 / 사원증 및 명함 지참\n더 좋은 진료를 위해 끊임없이 노력하는 치과\n충남 아산시 탕정면 한들물빛6로 46 6층 https://9promise.com/landing_p\nimplant.php\n041-542-2879\n본인부담진료비의 비급여분에 한하여 일관 20%할인(제외 사항: 골드, 뼈이식)\n병원",
+    "targets": [
+      "STUDENT",
+      "FACULTY"
+    ],
+    "target_raw": "교직원 / 재학생",
+    "benefit": "예약 방법 전화 또는 홈페이지 개별문의 및 예약 / 사원증 및 명함 지참",
+    "reservation_method": "전화 또는 홈페이지 개별문의 및 예약 / 사원증 및 명함 지참",
+    "phone": "041-542-2879",
+    "phone_secondary": "",
+    "website": "https://9promise.com/landing_p",
+    "address": "충남 아산시 탕정면 한들물빛6로 46 6층",
+    "category": "HOSPITAL_DENTAL",
+    "has_credentials": false,
+    "description": "더 좋은 진료를 위해 끊임없이 노력하는 치과"
+  },
+  {
+    "slide_number": 57,
+    "name": "골프킹",
+    "raw_text": "골프킹\n대상 선문대학교/ 대학원 교직원 전원(학생 제외)\n혜택\n예약 방법 전화 또는 홈페이지 개별문의 및 예약 / 사원증 및 명함 지참\n충남 최초 최점단 분석기＇스펙트럼＇보유 골프연습장\n충남 아산시 탕정면 매곡리 614-8 0507-1367-890\n7\n골프킹 골프연습자 멤버쉽 이용권 최대 20% 할인 혜택\n기타",
+    "targets": [
+      "STUDENT",
+      "FACULTY"
+    ],
+    "target_raw": "선문대학교/ 대학원 교직원 전원(학생 제외)",
+    "benefit": "예약 방법 전화 또는 홈페이지 개별문의 및 예약 / 사원증 및 명함 지참",
+    "reservation_method": "전화 또는 홈페이지 개별문의 및 예약 / 사원증 및 명함 지참",
+    "phone": "0507-1367-890",
+    "phone_secondary": "",
+    "website": "",
+    "address": "충남 최초 최점단 분석기＇스펙트럼＇보유 골프연습장",
+    "category": "FITNESS",
+    "has_credentials": false,
+    "description": ""
+  },
+  {
+    "slide_number": 58,
+    "name": "농촌뜨락 협동조합",
+    "raw_text": "농촌뜨락 협동조합\n대상 선문대학교/ 대학원 교직원 전원\n혜택\n예약 방법 전화 또는 홈페이지 개별문의 및 예약 / 사원증 및 명함 지참\n자연속의 여유, 전통마을의 정취!\n충남 아산시 송악면 강당리 108-8 010-2914-0848 http://nctr.oeam.co.kr/main/\n시설이용시 기본 금액에서 강당, 숙박요금 20%할인 혜택(음식, 체험 X)\n기타",
+    "targets": [
+      "FACULTY"
+    ],
+    "target_raw": "선문대학교/ 대학원 교직원 전원",
+    "benefit": "예약 방법 전화 또는 홈페이지 개별문의 및 예약 / 사원증 및 명함 지참",
+    "reservation_method": "전화 또는 홈페이지 개별문의 및 예약 / 사원증 및 명함 지참",
+    "phone": "010-2914-0848",
+    "phone_secondary": "",
+    "website": "http://nctr.oeam.co.kr/main/",
+    "address": "충남 아산시 송악면 강당리 108-8",
+    "category": "FOOD",
+    "has_credentials": false,
+    "description": "자연속의 여유, 전통마을의 정취!"
+  },
+  {
+    "slide_number": 59,
+    "name": "삼성미라클안과",
+    "raw_text": "삼성미라클안과\n대상 교직원 및 재학생, 직계가족\n혜택\n예약 방법 전화 또는 홈페이지 개별문의 및 예약 / 사원증, 학생증 또는 증명서 지참\n신뢰할 수 있는 병원, 믿고 맡길 수 있는 안과. 당신의 두 눈에 기적\n을 담아드립니다\n충청남도 천안시 서북구 충무로 125, 2층 041-576-0022 https://ca.samsungmiracle.co.kr/\n병원/\n안과\n진료 및 수술 할인",
+    "targets": [
+      "FACULTY_FAMILY",
+      "STUDENT",
+      "FACULTY"
+    ],
+    "target_raw": "교직원 및 재학생, 직계가족",
+    "benefit": "예약 방법 전화 또는 홈페이지 개별문의 및 예약 / 사원증, 학생증 또는 증명서 지참",
+    "reservation_method": "전화 또는 홈페이지 개별문의 및 예약 / 사원증, 학생증 또는 증명서 지참",
+    "phone": "041-576-0022",
+    "phone_secondary": "",
+    "website": "https://ca.samsungmiracle.co.kr/",
+    "address": "충청남도 천안시 서북구 충무로 125, 2층",
+    "category": "HOSPITAL_OPHTH",
+    "has_credentials": false,
+    "description": "신뢰할 수 있는 병원, 믿고 맡길 수 있는 안과. 당신의 두 눈에 기적"
+  },
+  {
+    "slide_number": 60,
+    "name": "성심정신건강의학과의원",
+    "raw_text": "성심정신건강의학과의원\n대상 선문대학교\n혜택\n예약 방법 전화 또는 홈페이지 개별문의 및 예약\n충남 아산시 온천동 222-1 041-548-4370\n병원\n학습활동, 상호 교류협력 지원",
+    "targets": [
+      "ALL_UNIVERSITY"
+    ],
+    "target_raw": "선문대학교",
+    "benefit": "예약 방법 전화 또는 홈페이지 개별문의 및 예약",
+    "reservation_method": "전화 또는 홈페이지 개별문의 및 예약",
+    "phone": "041-548-4370",
+    "phone_secondary": "",
+    "website": "",
+    "address": "충남 아산시 온천동 222-1",
+    "category": "HOSPITAL_MENTAL",
+    "has_credentials": false,
+    "description": "학습활동, 상호 교류협력 지원"
+  },
+  {
+    "slide_number": 61,
+    "name": "압구정KM성형외과",
+    "raw_text": "압구정KM성형외과\n대상 교직원 및 재학생, 교육생\n혜택\n예약 방법 전화 또는 홈페이지 개별문의 및 예약 / 사원증(학생증) 또는 증명서 지참\n성형에 대한 남다른 실력과 자부심\n충남 천안시 서북구 쌍용동 494-20 https://apgujeongkm.com/htm/\nintro_apgujeongn.php\n041-572-7185\n병원\n진료 및 수술 10%할인",
+    "targets": [
+      "TRAINEE",
+      "STUDENT",
+      "FACULTY"
+    ],
+    "target_raw": "교직원 및 재학생, 교육생",
+    "benefit": "예약 방법 전화 또는 홈페이지 개별문의 및 예약 / 사원증(학생증) 또는 증명서 지참",
+    "reservation_method": "전화 또는 홈페이지 개별문의 및 예약 / 사원증(학생증) 또는 증명서 지참",
+    "phone": "041-572-7185",
+    "phone_secondary": "",
+    "website": "https://apgujeongkm.com/htm/",
+    "address": "충남 천안시 서북구 쌍용동 494-20",
+    "category": "HOSPITAL_PLASTIC",
+    "has_credentials": false,
+    "description": "성형에 대한 남다른 실력과 자부심"
+  },
+  {
+    "slide_number": 62,
+    "name": "연세온통증의학과",
+    "raw_text": "연세온통증의학과\n대상 선문대학교 교직원\n혜택\n예약 방법 전화 또는 홈페이지 개별문의 및 예약 / 사원증 또는 증명서 지참\n정확한 진단과 바른 진료로 백세까지 건강한 삶을 살아갈 수 있도록\n연세온통증의학과가 함께하겠습니다\n충남 아산시 탕정면 매곡리 1220 http://yonseionpain.co.kr/\n#section1\n0507-1439-2026\n병원\n수액&혈액검사 1회 무료, 도수치료 10%할인, 체외중격파 치료 10%할인",
+    "targets": [
+      "FACULTY"
+    ],
+    "target_raw": "선문대학교 교직원",
+    "benefit": "예약 방법 전화 또는 홈페이지 개별문의 및 예약 / 사원증 또는 증명서 지참",
+    "reservation_method": "전화 또는 홈페이지 개별문의 및 예약 / 사원증 또는 증명서 지참",
+    "phone": "0507-1439-2026",
+    "phone_secondary": "",
+    "website": "http://yonseionpain.co.kr/",
+    "address": "충남 아산시 탕정면 매곡리 1220",
+    "category": "HOSPITAL_PAIN",
+    "has_credentials": false,
+    "description": "정확한 진단과 바른 진료로 백세까지 건강한 삶을 살아갈 수 있도록"
+  },
+  {
+    "slide_number": 63,
+    "name": "우리삼성치과",
+    "raw_text": "우리삼성치과\n대상 선문대학교 외국인 유학생\n혜택\n예약 방법 전화 또는 홈페이지 개별문의 및 예약 / 학생증 또는 증명서 지참\n걱정없고 깨끗한 진료, 오직 환자만을 생각하는 바른 치과\n충남 아산시 탕정면 명암리 928-7 041-533-2833 http://www.wsamsdc.com/default/\n병원\n무자격자(비보험) 진료비용 할인",
+    "targets": [
+      "FOREIGN_STUDENT"
+    ],
+    "target_raw": "선문대학교 외국인 유학생",
+    "benefit": "예약 방법 전화 또는 홈페이지 개별문의 및 예약 / 학생증 또는 증명서 지참",
+    "reservation_method": "전화 또는 홈페이지 개별문의 및 예약 / 학생증 또는 증명서 지참",
+    "phone": "041-533-2833",
+    "phone_secondary": "",
+    "website": "http://www.wsamsdc.com/default/",
+    "address": "충남 아산시 탕정면 명암리 928-7",
+    "category": "HOSPITAL_DENTAL",
+    "has_credentials": false,
+    "description": "걱정없고 깨끗한 진료, 오직 환자만을 생각하는 바른 치과"
+  },
+  {
+    "slide_number": 64,
+    "name": "진플란트치과의원",
+    "raw_text": "진플란트치과의원\n대상 선문대학교 임직원 및 가족, 재학생\n혜택\n예약 방법 전화 또는 홈페이지 개별문의 및 예약 / 사원증, 학생증 또는 증명서 지참\n변치 않는 신뢰, 진심을 다 해 진료하는 병원\n충남 천안시 동남구 청당동 512 041-557-2879 http://jinplantdc.com/\n병원\n진료비용 할인",
+    "targets": [
+      "FACULTY_FAMILY",
+      "STUDENT",
+      "FACULTY"
+    ],
+    "target_raw": "선문대학교 임직원 및 가족, 재학생",
+    "benefit": "예약 방법 전화 또는 홈페이지 개별문의 및 예약 / 사원증, 학생증 또는 증명서 지참",
+    "reservation_method": "전화 또는 홈페이지 개별문의 및 예약 / 사원증, 학생증 또는 증명서 지참",
+    "phone": "512 041-557",
+    "phone_secondary": "",
+    "website": "http://jinplantdc.com/",
+    "address": "충남 천안시 동남구 청당동",
+    "category": "HOSPITAL_DENTAL",
+    "has_credentials": false,
+    "description": "변치 않는 신뢰, 진심을 다 해 진료하는 병원"
+  },
+  {
+    "slide_number": 65,
+    "name": "충청남도천안의료원",
+    "raw_text": "충청남도천안의료원\n대상 선문대학교 임직원\n혜택\n예약 방법 전화 또는 홈페이지 개별문의 및 예약 / 사원증 또는 증명서 지참\n지역주민의 건강과 복지 증진을 위해 노력하는 병원.\n충남 천안시 동남구 삼룡동 41-13 041-570-7114 https://www.camc.or.kr/index\n병원\n예방접종 할인",
+    "targets": [
+      "FACULTY"
+    ],
+    "target_raw": "선문대학교 임직원",
+    "benefit": "예약 방법 전화 또는 홈페이지 개별문의 및 예약 / 사원증 또는 증명서 지참",
+    "reservation_method": "전화 또는 홈페이지 개별문의 및 예약 / 사원증 또는 증명서 지참",
+    "phone": "13 041-570",
+    "phone_secondary": "",
+    "website": "https://www.camc.or.kr/index",
+    "address": "충청남도천안의료원",
+    "category": "HOSPITAL_GENERAL",
+    "has_credentials": false,
+    "description": "지역주민의 건강과 복지 증진을 위해 노력하는 병원."
+  },
+  {
+    "slide_number": 66,
+    "name": "롯데시네마 천안불당",
+    "raw_text": "롯데시네마 천안불당\n대상 선문대학교 임직원 및 재학생\n혜택\n예약 방법 전화 또는 홈페이지 개별문의 및 예약\n충남 천안시 서북구 불당동 1537-2 https://www.lottecinema.co.kr/\nNLCHS?referrer=https://\npcmap.place.naver.com/theater/\n1544-8855\n대관, 예매 할인\n기타",
+    "targets": [
+      "STUDENT",
+      "FACULTY"
+    ],
+    "target_raw": "선문대학교 임직원 및 재학생",
+    "benefit": "예약 방법 전화 또는 홈페이지 개별문의 및 예약",
+    "reservation_method": "전화 또는 홈페이지 개별문의 및 예약",
+    "phone": "",
+    "phone_secondary": "",
+    "website": "https://www.lottecinema.co.kr/",
+    "address": "충남 천안시 서북구 불당동 1537-2",
+    "category": "CULTURE",
+    "has_credentials": false,
+    "description": "pcmap.place.naver.com/theater/"
+  },
+  {
+    "slide_number": 67,
+    "name": "바른손치과",
+    "raw_text": "바른손치과\n대상 선문대학교 교직원 & 교직원 가족\n혜택\n예약 방법 전화 또는 홈페이지 개별문의 및 예약 / 사원증 또는 증명서 지참\n가족을 대하는 마음으로,진심과 정성을 전하는 치과\n충남 아산시 온천동 222-5 041-544-2275 https://www.barunsondental.com/\n병원\n비급여에 한 해 정상가보다 15~20% 할인",
+    "targets": [
+      "FACULTY_FAMILY",
+      "FACULTY"
+    ],
+    "target_raw": "선문대학교 교직원 & 교직원 가족",
+    "benefit": "예약 방법 전화 또는 홈페이지 개별문의 및 예약 / 사원증 또는 증명서 지참",
+    "reservation_method": "전화 또는 홈페이지 개별문의 및 예약 / 사원증 또는 증명서 지참",
+    "phone": "041-544-2275",
+    "phone_secondary": "",
+    "website": "https://www.barunsondental.com/",
+    "address": "충남 아산시 온천동 222-5",
+    "category": "HOSPITAL_DENTAL",
+    "has_credentials": false,
+    "description": "가족을 대하는 마음으로,진심과 정성을 전하는 치과"
+  },
+  {
+    "slide_number": 68,
+    "name": "연세굿데이치과",
+    "raw_text": "연세굿데이치과\n대상 선문대학교 임직원 및 가족\n혜택\n예약 방법 전화 또는 홈페이지 개별문의 및 예약 / 사원증 또는 증명서 지참\n열심히 연구하고 노력하여 경험을 쌓아 온 병원\n서울 서초구 양재동 14-1 010-9338-2279 https://www.gooddaysmile.com/\n병원\n진료 할인",
+    "targets": [
+      "FACULTY_FAMILY",
+      "FACULTY"
+    ],
+    "target_raw": "선문대학교 임직원 및 가족",
+    "benefit": "예약 방법 전화 또는 홈페이지 개별문의 및 예약 / 사원증 또는 증명서 지참",
+    "reservation_method": "전화 또는 홈페이지 개별문의 및 예약 / 사원증 또는 증명서 지참",
+    "phone": "010-9338-2279",
+    "phone_secondary": "",
+    "website": "https://www.gooddaysmile.com/",
+    "address": "서울 서초구 양재동 14-1",
+    "category": "HOSPITAL_DENTAL",
+    "has_credentials": false,
+    "description": "열심히 연구하고 노력하여 경험을 쌓아 온 병원"
+  },
+  {
+    "slide_number": 69,
+    "name": "연세뉴치과",
+    "raw_text": "연세뉴치과\n대상 선문대학교 임직원 및 직계가족과 소개 환자\n혜택\n예약 방법 전화 또는 홈페이지 개별문의 및 예약 / 사원증 또는 증명서 지참\n충남 아산시 배방읍 장재리 1776 https://blog.naver.com/\nysnewdental\n0507-1469-2832\n병원\n임플란트 25%, 보철15% 할인",
+    "targets": [
+      "FACULTY_FAMILY",
+      "FACULTY"
+    ],
+    "target_raw": "선문대학교 임직원 및 직계가족과 소개 환자",
+    "benefit": "예약 방법 전화 또는 홈페이지 개별문의 및 예약 / 사원증 또는 증명서 지참",
+    "reservation_method": "전화 또는 홈페이지 개별문의 및 예약 / 사원증 또는 증명서 지참",
+    "phone": "0507-1469-2832",
+    "phone_secondary": "",
+    "website": "https://blog.naver.com/",
+    "address": "충남 아산시 배방읍 장재리 1776",
+    "category": "HOSPITAL_DENTAL",
+    "has_credentials": false,
+    "description": "임플란트 25%, 보철15% 할인"
+  },
+  {
+    "slide_number": 70,
+    "name": "연세온마취통증의학과의원",
+    "raw_text": "연세온마취통증의학과의원\n대상 선문대학교 교직원\n혜택\n예약 방법 전화 또는 홈페이지 개별문의 및 예약 / 사원증 또는 증명서 지참\n정확한 진단과 바른 진료.\n충남 아산시 탕정면 매곡리 1220 0507-1439-2026 http://yonseionpain.co.kr/\n병원\n마그비타 수액, 혈액검사 1회 무료, 도수치료 10%할인, 체외충격파 치료 10% 할인",
+    "targets": [
+      "FACULTY"
+    ],
+    "target_raw": "선문대학교 교직원",
+    "benefit": "예약 방법 전화 또는 홈페이지 개별문의 및 예약 / 사원증 또는 증명서 지참",
+    "reservation_method": "전화 또는 홈페이지 개별문의 및 예약 / 사원증 또는 증명서 지참",
+    "phone": "1220 0507-1439",
+    "phone_secondary": "",
+    "website": "http://yonseionpain.co.kr/",
+    "address": "충남 아산시 탕정면 매곡리",
+    "category": "HOSPITAL_PAIN",
+    "has_credentials": false,
+    "description": "마그비타 수액, 혈액검사 1회 무료, 도수치료 10%할인, 체외충격파 치료 10% 할인"
+  },
+  {
+    "slide_number": 71,
+    "name": "천안 나안과",
+    "raw_text": "천안 나안과\n대상 선문대학교 임직원 및 학생\n혜택\n예약 방법 전화 또는 홈페이지 개별문의 및 예약 / 사원증, 학생증 또는 증명서 지참\n소중한 당신의 눈 건강 주치의\n충남 천안시 동남구 신부동 473-2 https://www.naeye.co.kr/\nclinicInfoChn/gerontopia/\nindex1.php\n041-563-3551\n병원\n진료 할인",
+    "targets": [
+      "STUDENT",
+      "FACULTY"
+    ],
+    "target_raw": "선문대학교 임직원 및 학생",
+    "benefit": "예약 방법 전화 또는 홈페이지 개별문의 및 예약 / 사원증, 학생증 또는 증명서 지참",
+    "reservation_method": "전화 또는 홈페이지 개별문의 및 예약 / 사원증, 학생증 또는 증명서 지참",
+    "phone": "041-563-3551",
+    "phone_secondary": "",
+    "website": "https://www.naeye.co.kr/",
+    "address": "천안 나안과",
+    "category": "HOSPITAL_OPHTH",
+    "has_credentials": false,
+    "description": "소중한 당신의 눈 건강 주치의"
+  },
+  {
+    "slide_number": 72,
+    "name": "천안자생한방병원",
+    "raw_text": "천안자생한방병원\n대상 선문대학교 임직원\n혜택\n예약 방법 전화 또는 홈페이지 개별문의 및 예약 / 사원증 또는 증명서 지참\n표준화, 과학과, 세계화된 치료법으로 전세계 비수술 척추치료를 선\n도하는 병원\n충남 천안시 서북구 불당동 1537-1 041-1577-0007 https://cheonan.jaseng.co.kr/\n병원\n비급여 항목 10% 우대 혜택 적용",
+    "targets": [
+      "FACULTY"
+    ],
+    "target_raw": "선문대학교 임직원",
+    "benefit": "예약 방법 전화 또는 홈페이지 개별문의 및 예약 / 사원증 또는 증명서 지참",
+    "reservation_method": "전화 또는 홈페이지 개별문의 및 예약 / 사원증 또는 증명서 지참",
+    "phone": "041-1577-0007",
+    "phone_secondary": "",
+    "website": "https://cheonan.jaseng.co.kr/",
+    "address": "천안자생한방병원",
+    "category": "HOSPITAL_ORIENTAL",
+    "has_credentials": false,
+    "description": "표준화, 과학과, 세계화된 치료법으로 전세계 비수술 척추치료를 선"
+  },
+  {
+    "slide_number": 73,
+    "name": "탕정온천 더프라하스파",
+    "raw_text": "탕정온천 더프라하스파\n대상 교직원 및 재학생 동반 2인까지 할인(총 3명)\n혜택\n예약 방법 전화 또는 홈페이지 개별문의 및 예약 / 사원증, 학생증 또는 증명서 지참\n충남 아산시 탕정면 용머리길 40 탕정온천 더프라하스파 041-910-0542 https://www.theprahaspa.com/\n할인예방접종 할인\n기타",
+    "targets": [
+      "STUDENT",
+      "FACULTY"
+    ],
+    "target_raw": "교직원 및 재학생 동반 2인까지 할인(총 3명)",
+    "benefit": "예약 방법 전화 또는 홈페이지 개별문의 및 예약 / 사원증, 학생증 또는 증명서 지참",
+    "reservation_method": "전화 또는 홈페이지 개별문의 및 예약 / 사원증, 학생증 또는 증명서 지참",
+    "phone": "041-910-0542",
+    "phone_secondary": "",
+    "website": "https://www.theprahaspa.com/",
+    "address": "충남 아산시 탕정면 용머리길 40 탕정온천 더프라하스파",
+    "category": "ACCOMMODATION_SPA",
+    "has_credentials": false,
+    "description": ""
+  },
+  {
+    "slide_number": 74,
+    "name": "프라이드병원",
+    "raw_text": "프라이드병원\n대상 선문대학교 \n혜택\n예약 방법 전화 또는 홈페이지 개별문의 및 예약 / 사원증 또는 증명서 지참\n프로 운동선수들을 치료했던 최고 전문가들이 최고의 치료를 약속\n합니다\n충남 아산시 배방읍 북수리 1724 041-911-8588 https://www.pridehospital.co.kr/\n병원\n예방접종 20%할인, 비금여 10% 할인",
+    "targets": [
+      "ALL_UNIVERSITY"
+    ],
+    "target_raw": "선문대학교",
+    "benefit": "예약 방법 전화 또는 홈페이지 개별문의 및 예약 / 사원증 또는 증명서 지참",
+    "reservation_method": "전화 또는 홈페이지 개별문의 및 예약 / 사원증 또는 증명서 지참",
+    "phone": "1724 041-911",
+    "phone_secondary": "",
+    "website": "https://www.pridehospital.co.kr/",
+    "address": "충남 아산시 배방읍 북수리 1724",
+    "category": "HOSPITAL_GENERAL",
+    "has_credentials": false,
+    "description": "프로 운동선수들을 치료했던 최고 전문가들이 최고의 치료를 약속"
+  },
+  {
+    "slide_number": 75,
+    "name": "지방부수리",
+    "raw_text": "지방부수리\n대상 선문대학교 임직원 및 학생 \n혜택\n예약 방법 전화 또는 홈페이지 개별문의 및 예약 / 사원증, 학생증 또는 증명서 지참\n대한민국 TOP 가장 높은 곳을 지향한다\n충남 천안시 서북구 불당동 684 0507-1344-7030 https://jibangbusuri.com/\n회원권 & PT 할인\n기타",
+    "targets": [
+      "STUDENT",
+      "FACULTY"
+    ],
+    "target_raw": "선문대학교 임직원 및 학생",
+    "benefit": "예약 방법 전화 또는 홈페이지 개별문의 및 예약 / 사원증, 학생증 또는 증명서 지참",
+    "reservation_method": "전화 또는 홈페이지 개별문의 및 예약 / 사원증, 학생증 또는 증명서 지참",
+    "phone": "684 0507-1344",
+    "phone_secondary": "",
+    "website": "https://jibangbusuri.com/",
+    "address": "충남 천안시 서북구 불당동",
+    "category": "FITNESS",
+    "has_credentials": false,
+    "description": "대한민국 TOP 가장 높은 곳을 지향한다"
+  }
+]

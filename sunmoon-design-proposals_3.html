@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>선문대학교 복지협약 플랫폼 — 디자인 시안 3종</title>
+<link href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:'Pretendard Variable',Pretendard,-apple-system,sans-serif;background:#e4e4e4;color:#222}
+img{display:block;width:100%;height:100%;object-fit:cover}
+a{text-decoration:none;color:inherit}
+
+/* Master tabs */
+.mt{position:sticky;top:0;z-index:1000;background:#111;display:flex;align-items:center;padding:0 24px}
+.mt h1{font-size:13px;font-weight:500;color:#888;margin-right:24px;padding:14px 0;white-space:nowrap}.mt h1 b{color:#fff}
+.mt button{padding:14px 18px;font-size:13px;font-weight:500;border:none;background:none;cursor:pointer;color:#666;border-bottom:2px solid transparent;transition:.15s}.mt button.on{color:#4dd0c4;border-bottom-color:#4dd0c4}.mt button:hover{color:#aaa}
+.mt .info{margin-left:auto;font-size:11px;color:#555}
+.pn{display:none}.pn.on{display:block}
+
+/* Desc strip */
+.ds{background:#fff;border-bottom:1px solid #ddd;padding:14px 32px;display:flex;gap:20px;align-items:center;flex-wrap:wrap}
+.ds h2{font-size:15px;font-weight:700;white-space:nowrap}.ds p{font-size:13px;color:#666;flex:1;min-width:200px;line-height:1.5}
+.tags{display:flex;gap:5px;flex-wrap:wrap}.tg{padding:3px 9px;border-radius:5px;font-size:11px;font-weight:600}.tg.g{background:#E1F5EE;color:#0F6E56}.tg.r{background:#FCEBEB;color:#A32D2D}.tg.n{background:#F1EFE8;color:#5F5E5A}
+
+/* Color tokens */
+:root{--smu:#02747F;--sky:#0199DC;--red:#C31F42;--gold:#D4A843}
+
+/* Badges */
+.bd{display:inline-flex;align-items:center;gap:4px;padding:4px 10px;border-radius:6px;font-size:11px;font-weight:600}
+.bd.h{background:#E6F1FB;color:#185FA5}.bd.d{background:#EEEDFE;color:#534AB7}.bd.o{background:#FFF0F6;color:#993556}.bd.ac{background:#E1F5EE;color:#0F6E56}.bd.fu{background:#F1EFE8;color:#5F5E5A}.bd.et{background:#FAEEDA;color:#854F0B}.bd.st{background:#E1F5EE;color:#0F6E56}.bd.fc{background:#FFF3E0;color:#854F0B}
+
+/* =============================================
+   A — 기업 복지몰 (이미지 강화)
+============================================= */
+.A{background:#F3F4F6;min-height:100vh}
+.A-top{background:var(--smu);padding:0 32px;height:56px;display:flex;align-items:center;gap:20px}
+.A-logo{display:flex;align-items:center;gap:10px;color:#fff}.A-logo .ic{width:34px;height:34px;background:#fff;border-radius:8px;display:flex;align-items:center;justify-content:center;font-weight:800;font-size:17px;color:var(--smu)}.A-logo .nm{font-size:17px;font-weight:700}.A-logo .sub{font-size:11px;opacity:.6;margin-left:6px}
+.A-nav{display:flex;gap:4px;margin-left:24px}.A-nav a{padding:8px 16px;color:rgba(255,255,255,.65);font-size:13px;font-weight:500;border-radius:8px}.A-nav a.on{background:rgba(255,255,255,.15);color:#fff}
+.A-srch{margin-left:auto;position:relative;width:300px}.A-srch input{width:100%;padding:9px 14px 9px 38px;border:none;border-radius:10px;background:rgba(255,255,255,.12);color:#fff;font-size:13px;outline:none;font-family:inherit;backdrop-filter:blur(4px)}.A-srch input::placeholder{color:rgba(255,255,255,.45)}.A-srch svg{position:absolute;left:12px;top:50%;transform:translateY(-50%);width:16px;height:16px;stroke:rgba(255,255,255,.5);fill:none;stroke-width:2}
+.A-usr{width:34px;height:34px;border-radius:50%;background:rgba(255,255,255,.12);display:flex;align-items:center;justify-content:center;margin-left:8px}
+
+/* Hero with background image */
+.A-hero{position:relative;height:240px;overflow:hidden;display:flex;align-items:center}
+.A-hero-bg{position:absolute;inset:0;z-index:0}
+.A-hero-bg img{width:100%;height:100%;object-fit:cover;filter:brightness(.45)}
+.A-hero-overlay{position:absolute;inset:0;background:linear-gradient(135deg,rgba(2,116,127,.85),rgba(1,153,220,.7));z-index:1}
+.A-hero-content{position:relative;z-index:2;padding:0 40px;display:flex;align-items:center;justify-content:space-between;width:100%}
+.A-hero h2{font-size:30px;font-weight:700;color:#fff;line-height:1.35;margin-bottom:6px}
+.A-hero p{font-size:14px;color:rgba(255,255,255,.75)}
+.A-stats{display:flex;gap:14px}
+.A-stat{background:rgba(255,255,255,.1);backdrop-filter:blur(8px);border:1px solid rgba(255,255,255,.15);border-radius:16px;padding:20px 28px;text-align:center;min-width:100px}
+.A-stat strong{display:block;font-size:32px;font-weight:800;color:#fff}.A-stat span{font-size:12px;color:rgba(255,255,255,.6);margin-top:2px;display:block}
+
+.A-body{max-width:1320px;margin:0 auto;padding:24px 32px;display:flex;gap:24px}
+.A-side{width:230px;flex-shrink:0;position:sticky;top:90px;align-self:flex-start}
+.A-side-t{font-size:11px;font-weight:600;color:#999;text-transform:uppercase;letter-spacing:.5px;margin-bottom:10px}
+.A-si{display:flex;align-items:center;gap:10px;padding:10px 14px;border-radius:10px;font-size:14px;font-weight:500;color:#666;cursor:pointer;margin-bottom:2px;transition:.1s}.A-si:hover{background:#fff}.A-si.on{background:var(--smu);color:#fff}.A-si .cnt{margin-left:auto;font-size:12px;opacity:.5}.A-si.on .cnt{opacity:.8}
+.A-si-icon{width:28px;height:28px;border-radius:8px;display:flex;align-items:center;justify-content:center;font-size:15px;background:#f0f0f0;flex-shrink:0}.A-si.on .A-si-icon{background:rgba(255,255,255,.2)}
+.A-tog{margin-top:16px;background:#fff;border-radius:12px;padding:4px;border:1px solid #e4e4e4}
+.A-tb{display:block;width:100%;padding:9px;text-align:center;font-size:13px;font-weight:500;border-radius:8px;cursor:pointer;color:#999;margin-bottom:2px;transition:.1s}.A-tb:last-child{margin:0}.A-tb.on{background:var(--smu);color:#fff}
+
+.A-ct{flex:1;min-width:0}
+.A-bar{display:flex;align-items:center;justify-content:space-between;margin-bottom:16px}.A-bar .rc{font-size:14px;color:#888}.A-bar strong{color:var(--smu)}
+.A-bar select{padding:7px 12px;border:1px solid #ddd;border-radius:8px;font-size:13px;background:#fff;font-family:inherit}
+
+.A-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+
+.A-card{background:#fff;border-radius:16px;overflow:hidden;border:1px solid #eee;display:flex;flex-direction:column;transition:transform .2s,box-shadow .2s}.A-card:hover{transform:translateY(-3px);box-shadow:0 12px 32px rgba(0,0,0,.08)}
+.A-card-img{height:140px;position:relative;overflow:hidden}
+.A-card-img img{transition:transform .3s}.A-card:hover .A-card-img img{transform:scale(1.05)}
+.A-card-img .overlay{position:absolute;bottom:0;left:0;right:0;padding:8px 14px;background:linear-gradient(transparent,rgba(0,0,0,.6));display:flex;justify-content:space-between;align-items:end}
+.A-card-body{padding:16px 18px;flex:1;display:flex;flex-direction:column}
+.A-card-badges{display:flex;gap:6px;margin-bottom:8px}
+.A-card h3{font-size:16px;font-weight:700;color:#111;margin-bottom:4px}
+.A-card-desc{font-size:12px;color:#999;margin-bottom:10px;line-height:1.4}
+.A-benefit{background:linear-gradient(135deg,#F0FAFB,#E6F4F1);border:1px solid #D0E8E5;border-radius:10px;padding:10px 14px;font-size:13px;color:var(--smu);font-weight:600;line-height:1.5;margin-bottom:12px;flex:1;white-space:pre-line}
+.A-meta{font-size:12px;color:#aaa;margin-bottom:12px;display:flex;align-items:center;gap:5px}
+.A-acts{display:grid;grid-template-columns:repeat(3,1fr);gap:6px;margin-top:auto}
+.A-btn{display:flex;align-items:center;justify-content:center;gap:4px;padding:9px;border-radius:10px;font-size:12px;font-weight:600;background:#f6f6f6;color:#555;border:1px solid #eee;transition:.1s;cursor:pointer}.A-btn:hover{background:#eee}
+.A-btn svg{width:14px;height:14px;stroke-width:1.8;fill:none}
+
+@media(max-width:1100px){.A-grid{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:800px){.A-body{flex-direction:column}.A-side{width:100%;position:static;display:flex;gap:8px;overflow-x:auto;flex-wrap:nowrap;padding-bottom:8px}.A-side-t{display:none}.A-si{white-space:nowrap;flex-shrink:0}.A-tog{display:flex;margin-top:0}.A-tb{margin:0}.A-grid{grid-template-columns:1fr}.A-hero{height:180px}.A-hero h2{font-size:22px}.A-hero-content{flex-direction:column;gap:16px;text-align:center}.A-stats{justify-content:center}.A-nav,.A-srch{display:none}.A-card-img{height:120px}}
+
+/* =============================================
+   B — 감성 카드 (이미지 강화)
+============================================= */
+.B{background:#FAFBFC;min-height:100vh}
+.B-top{background:#fff;border-bottom:1px solid #eee;padding:0 32px;height:60px;display:flex;align-items:center}
+.B-logo{display:flex;align-items:center;gap:10px}.B-logo .mk{width:40px;height:40px;border-radius:14px;background:linear-gradient(135deg,var(--smu),var(--sky));display:flex;align-items:center;justify-content:center;color:#fff;font-weight:800;font-size:16px}.B-logo .tx{font-size:16px;font-weight:700;color:#222}.B-logo .tx span{display:block;font-size:11px;font-weight:400;color:#999}
+.B-ctr{flex:1;display:flex;justify-content:center}.B-ctr .sx{position:relative;width:440px}.B-ctr input{width:100%;padding:10px 16px 10px 42px;border:1.5px solid #e0e0e0;border-radius:28px;font-size:14px;background:#fafafa;outline:none;font-family:inherit;transition:.15s}.B-ctr input:focus{border-color:var(--smu);box-shadow:0 0 0 3px rgba(2,116,127,.08)}.B-ctr svg{position:absolute;left:14px;top:50%;transform:translateY(-50%);width:18px;height:18px;stroke:#aaa;fill:none;stroke-width:2}
+.B-rt{display:flex;align-items:center;gap:16px}.B-rt a{font-size:13px;color:#666;font-weight:500}
+
+/* Hero banner with image */
+.B-banner{max-width:1160px;margin:24px auto 0;padding:0 24px}
+.B-bn{border-radius:24px;overflow:hidden;position:relative;height:260px;display:flex;align-items:center}
+.B-bn-bg{position:absolute;inset:0}.B-bn-bg img{filter:brightness(.4)}
+.B-bn-grad{position:absolute;inset:0;background:linear-gradient(135deg,rgba(2,116,127,.88),rgba(1,153,220,.7),rgba(72,201,176,.6))}
+.B-bn-content{position:relative;z-index:1;padding:0 52px;display:flex;align-items:center;justify-content:space-between;width:100%}
+.B-bn h2{font-size:32px;font-weight:700;line-height:1.35;color:#fff}
+.B-bn p{font-size:15px;color:rgba(255,255,255,.7);margin-top:8px}
+.B-bn-right{text-align:right;color:#fff}
+.B-bn-right .num{font-size:48px;font-weight:800;line-height:1}.B-bn-right .label{font-size:13px;opacity:.6}
+
+/* Quick menu with images */
+.B-qw{max-width:1160px;margin:0 auto;padding:24px 24px 0}
+.B-q{display:grid;grid-template-columns:repeat(4,1fr);gap:14px}
+.B-qi{border-radius:16px;overflow:hidden;position:relative;height:120px;cursor:pointer;transition:transform .2s,box-shadow .2s}.B-qi:hover{transform:translateY(-3px);box-shadow:0 8px 24px rgba(0,0,0,.1)}
+.B-qi img{filter:brightness(.5);transition:transform .3s}.B-qi:hover img{transform:scale(1.08)}
+.B-qi-overlay{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;z-index:1}
+.B-qi-icon{font-size:28px;margin-bottom:4px}
+.B-qi-label{font-size:14px;font-weight:600;color:#fff}
+.B-qi-count{font-size:12px;color:rgba(255,255,255,.65)}
+
+.B-mn{max-width:1160px;margin:0 auto;padding:24px}
+.B-fb{display:flex;align-items:center;justify-content:space-between;margin-bottom:20px;flex-wrap:wrap;gap:12px}
+.B-tg{display:flex;background:#fff;border-radius:14px;padding:4px;border:1px solid #eee;box-shadow:0 1px 3px rgba(0,0,0,.03)}.B-tgb{padding:10px 20px;font-size:13px;font-weight:500;border-radius:10px;color:#999;cursor:pointer;transition:.1s}.B-tgb.on{background:var(--smu);color:#fff}
+.B-rs{font-size:14px;color:#888}.B-rs b{color:var(--smu)}
+
+.B-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+.B-card{background:#fff;border-radius:18px;overflow:hidden;border:1px solid #f0f0f0;display:flex;flex-direction:column;transition:transform .2s,box-shadow .2s;cursor:pointer}.B-card:hover{transform:translateY(-3px);box-shadow:0 12px 32px rgba(0,0,0,.07)}
+.B-card-img{height:150px;position:relative;overflow:hidden}.B-card:hover .B-card-img img{transform:scale(1.05)}
+.B-card-img img{transition:transform .3s}
+.B-card-img .cat-badge{position:absolute;top:12px;left:12px;z-index:1}
+.B-card-img .target-badge{position:absolute;top:12px;right:12px;z-index:1}
+.B-card-body{padding:16px 18px;flex:1;display:flex;flex-direction:column}
+.B-card h4{font-size:16px;font-weight:700;color:#111;margin-bottom:6px}
+.B-card-bf{font-size:13px;color:var(--smu);font-weight:600;margin-bottom:10px;line-height:1.5;flex:1}
+.B-card-info{font-size:12px;color:#aaa;margin-bottom:4px;display:flex;align-items:center;gap:5px}
+.B-card-ft{display:flex;border-top:1px solid #f5f5f5}.B-card-ft a{flex:1;display:flex;align-items:center;justify-content:center;gap:5px;padding:12px;font-size:13px;font-weight:500;color:#666;transition:.1s}.B-card-ft a:hover{background:#f8f8f8;color:var(--smu)}.B-card-ft a+a{border-left:1px solid #f5f5f5}
+.B-card-ft svg{width:15px;height:15px;stroke-width:1.5;fill:none}
+
+@media(max-width:900px){.B-grid{grid-template-columns:repeat(2,1fr)}.B-q{grid-template-columns:repeat(2,1fr)}.B-qi{height:90px}}
+@media(max-width:600px){.B-grid{grid-template-columns:1fr}.B-bn{height:200px}.B-bn h2{font-size:22px}.B-bn-content{flex-direction:column;text-align:center;gap:16px}.B-bn-right{text-align:center}.B-ctr{display:none}}
+
+/* =============================================
+   C — 프리미엄 미니멀 (이미지 강화)
+============================================= */
+.C{background:#FAFAFA;min-height:100vh}
+.C-top{background:#fff;border-bottom:1px solid #eee;padding:0 40px;height:56px;display:flex;align-items:center}
+.C-logo{display:flex;align-items:baseline;gap:6px}.C-logo .mk{font-size:20px;font-weight:800;color:var(--smu);letter-spacing:-1px}.C-logo .mk em{font-style:normal;color:var(--red)}.C-logo .sp{color:#ddd;margin:0 6px}.C-logo .lb{font-size:13px;color:#999}
+.C-nav{display:flex;gap:2px;margin-left:36px}.C-nav a{padding:16px 18px;font-size:14px;font-weight:500;color:#aaa;border-bottom:2px solid transparent}.C-nav a.on{color:var(--smu);border-bottom-color:var(--smu);font-weight:600}.C-nav a:hover{color:#555}
+.C-rr{margin-left:auto;display:flex;align-items:center;gap:18px}
+.C-sx{position:relative}.C-sx input{padding:8px 14px 8px 36px;border:1px solid #e4e4e4;border-radius:10px;font-size:13px;width:280px;outline:none;font-family:inherit;transition:.15s}.C-sx input:focus{border-color:var(--smu);box-shadow:0 0 0 3px rgba(2,116,127,.06)}.C-sx svg{position:absolute;left:10px;top:50%;transform:translateY(-50%);width:16px;height:16px;stroke:#bbb;fill:none;stroke-width:2}
+.C-ub{font-size:13px;color:#666;font-weight:500;display:flex;align-items:center;gap:5px}
+
+.C-main{max-width:1240px;margin:0 auto;padding:28px 40px}
+
+/* Hero mini banner */
+.C-mini-hero{border-radius:20px;overflow:hidden;position:relative;height:180px;margin-bottom:28px;display:flex;align-items:center}
+.C-mini-hero-bg{position:absolute;inset:0}.C-mini-hero-bg img{filter:brightness(.35)}
+.C-mini-hero-grad{position:absolute;inset:0;background:linear-gradient(90deg,rgba(2,116,127,.9) 0%,rgba(1,153,220,.6) 60%,transparent 100%)}
+.C-mini-hero-content{position:relative;z-index:1;padding:0 40px;color:#fff}
+.C-mini-hero h2{font-size:26px;font-weight:700;margin-bottom:4px}.C-mini-hero p{font-size:14px;opacity:.7}
+.C-mini-hero .nums{display:flex;gap:28px;margin-top:16px}.C-mini-hero .num-item strong{font-size:28px;font-weight:800}.C-mini-hero .num-item span{font-size:11px;opacity:.55;display:block;margin-top:2px}
+
+.C-fl{display:flex;align-items:center;gap:14px;margin-bottom:18px;flex-wrap:wrap}
+.C-ch{display:flex;gap:7px;flex-wrap:wrap}
+.C-chip{padding:8px 16px;border-radius:10px;font-size:13px;font-weight:500;background:#fff;color:#666;border:1px solid #e4e4e4;cursor:pointer;transition:.1s}.C-chip.on{background:var(--smu);color:#fff;border-color:var(--smu)}.C-chip:hover:not(.on){background:#f5f5f5}
+.C-seg{display:flex;background:#f0f0f0;border-radius:10px;padding:3px;margin-left:auto}.C-segb{padding:8px 16px;font-size:12px;font-weight:500;border-radius:8px;color:#999;cursor:pointer;transition:.1s}.C-segb.on{background:#fff;color:var(--smu);box-shadow:0 1px 4px rgba(0,0,0,.06)}
+
+.C-rb{margin-bottom:14px;font-size:13px;color:#aaa}.C-rb b{color:var(--smu)}
+
+/* List cards with thumbnails */
+.C-list{display:flex;flex-direction:column;gap:10px}
+.C-lc{background:#fff;border-radius:14px;overflow:hidden;border:1px solid #f0f0f0;display:flex;transition:box-shadow .2s,transform .15s}.C-lc:hover{box-shadow:0 6px 20px rgba(0,0,0,.05);transform:translateY(-1px)}
+.C-lc-img{width:200px;flex-shrink:0;position:relative;overflow:hidden}.C-lc-img img{transition:transform .3s}.C-lc:hover .C-lc-img img{transform:scale(1.05)}
+.C-lc-accent{position:absolute;left:0;top:0;bottom:0;width:4px;z-index:1}
+.C-lc-accent.h{background:var(--smu)}.C-lc-accent.ac{background:#1D9E75}.C-lc-accent.fu{background:#888}.C-lc-accent.et{background:var(--gold)}
+.C-lc-body{flex:1;padding:18px 24px;display:flex;gap:20px;min-width:0}
+.C-lc-main{flex:1;min-width:0}
+.C-lc-top{display:flex;align-items:center;gap:8px;margin-bottom:4px}.C-lc-cat{font-size:12px;font-weight:600;color:var(--smu)}
+.C-lc h4{font-size:17px;font-weight:700;color:#111;margin-bottom:2px}
+.C-lc-desc{font-size:12px;color:#bbb;margin-bottom:6px}
+.C-lc-bf{font-size:14px;color:var(--smu);font-weight:600;margin-bottom:8px;line-height:1.4}
+.C-lc-mt{display:flex;gap:16px;font-size:12px;color:#aaa;flex-wrap:wrap}.C-lc-mt span{display:flex;align-items:center;gap:4px}
+.C-lc-side{display:flex;flex-direction:column;gap:8px;flex-shrink:0;align-items:flex-end;justify-content:center;min-width:150px}
+.C-ar{display:flex;gap:6px}
+.C-ab{display:flex;align-items:center;gap:4px;padding:8px 14px;border-radius:8px;font-size:12px;font-weight:600;background:#f6f6f6;color:#555;border:1px solid #eee;transition:.1s;cursor:pointer}.C-ab:hover{background:#eee}.C-ab svg{width:14px;height:14px;stroke-width:1.8;fill:none}
+.C-ab.lock{background:#FFF3E0;color:#BF360C;border-color:#FFD89B}
+.C-lock-badge{display:inline-flex;align-items:center;gap:4px;padding:3px 8px;background:#FFF3E0;border-radius:5px;font-size:11px;color:#BF360C;font-weight:600}
+
+@media(max-width:900px){.C-lc-img{width:140px}}
+@media(max-width:768px){.C-lc{flex-direction:column}.C-lc-img{width:100%;height:140px}.C-lc-body{flex-direction:column;gap:12px}.C-lc-side{flex-direction:row;flex-wrap:wrap;align-items:center;min-width:0}.C-nav,.C-sx{display:none}.C-top{padding:0 16px}.C-main{padding:16px}.C-seg{margin-left:0;margin-top:8px;width:100%}.C-segb{flex:1;text-align:center}.C-mini-hero{height:140px}.C-mini-hero h2{font-size:20px}.C-mini-hero .nums{gap:16px}}
+</style>
+</head>
+<body>
+
+<div class="mt">
+<h1><b>선문 웰페어</b> 디자인 시안</h1>
+<button class="on" onclick="sw('a',this)">A. 기업 복지몰</button>
+<button onclick="sw('b',this)">B. 감성 카드형</button>
+<button onclick="sw('c',this)">C. 프리미엄 미니멀</button>
+<span class="info">브라우저 너비를 줄이면 모바일 반응형 확인 가능</span>
+</div>
+
+<!-- ======= A ======= -->
+<div class="pn on" id="a">
+<div class="ds"><h2>시안 A — 기업 복지몰</h2><p>베네피아 레퍼런스. 사이드바 + 이미지 카드 그리드 + 히어로 통계. 기관 사진으로 시각적 풍부함 극대화.</p><div class="tags"><span class="tg g">신뢰감</span><span class="tg g">시각 풍부</span><span class="tg r">카드 높이</span></div></div>
+<div class="A">
+<div class="A-top"><div class="A-logo"><div class="ic">S</div><span class="nm">선문 웰페어</span><span class="sub">복지협약 안내</span></div><div class="A-nav"><a href="#" class="on">전체</a><a href="#">병원</a><a href="#">숙박</a><a href="#">장례</a><a href="#">기타</a></div><div class="A-srch"><svg><circle cx="11" cy="11" r="7"/><path d="M16 16l5 5"/></svg><input placeholder="기관명, 혜택, 주소 검색..." readonly></div><div class="A-usr"><svg width="18" height="18" viewBox="0 0 24 24" stroke="rgba(255,255,255,.7)" fill="none" stroke-width="1.5"><circle cx="12" cy="8" r="4"/><path d="M20 21a8 8 0 10-16 0"/></svg></div></div>
+
+<div class="A-hero"><div class="A-hero-bg"><img src="https://images.unsplash.com/photo-1562774053-701939374585?w=1400&h=400&fit=crop&crop=center" alt=""></div><div class="A-hero-overlay"></div><div class="A-hero-content"><div><h2>선문인을 위한 특별한 복지 혜택</h2><p>인사총무팀 제공 · 2026년 기준 · 73개 협약기관</p></div><div class="A-stats"><div class="A-stat"><strong>73</strong><span>협약기관</span></div><div class="A-stat"><strong>42</strong><span>의료기관</span></div><div class="A-stat"><strong>18</strong><span>숙박시설</span></div><div class="A-stat"><strong>4</strong><span>장례시설</span></div></div></div></div>
+
+<div class="A-body">
+<aside class="A-side">
+<div class="A-side-t">카테고리</div>
+<div class="A-si on"><div class="A-si-icon">📋</div>전체<span class="cnt">73</span></div>
+<div class="A-si"><div class="A-si-icon">🏥</div>병원/일반<span class="cnt">10</span></div>
+<div class="A-si"><div class="A-si-icon">🦷</div>병원/치과<span class="cnt">16</span></div>
+<div class="A-si"><div class="A-si-icon">👁️</div>병원/안과<span class="cnt">8</span></div>
+<div class="A-si"><div class="A-si-icon">🏨</div>숙박/호텔<span class="cnt">8</span></div>
+<div class="A-si"><div class="A-si-icon">🏔️</div>숙박/리조트<span class="cnt">6</span></div>
+<div class="A-si"><div class="A-si-icon">🌸</div>장례<span class="cnt">4</span></div>
+<div class="A-si"><div class="A-si-icon">🍽️</div>기타<span class="cnt">9</span></div>
+<div class="A-tog"><div class="A-tb on">전체 보기</div><div class="A-tb">학생 혜택</div><div class="A-tb">교직원 전용</div></div>
+</aside>
+
+<div class="A-ct">
+<div class="A-bar"><span class="rc">총 <strong>73</strong>개 협약기관</span><select><option>기본순</option><option>이름순</option><option>거리순</option></select></div>
+<div class="A-grid">
+
+<div class="A-card"><div class="A-card-img"><img src="https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=400&h=200&fit=crop" alt="병원"><div class="overlay"><span class="bd h" style="font-size:10px">🏥 병원/일반</span><span class="bd st" style="font-size:10px">학생포함</span></div></div><div class="A-card-body"><h3>천안충무병원</h3><div class="A-card-desc">중부권 최대 종합병원, 13개의 전문화 센터</div><div class="A-benefit">비급여 항목 10% 할인</div><div class="A-meta">📍 충남 천안시 서북구 다가말3길 8</div><div class="A-acts"><a class="A-btn"><svg viewBox="0 0 24 24" stroke="#3B82F6"><path d="M22 16.92V19.92a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07"/></svg>전화</a><a class="A-btn"><svg viewBox="0 0 24 24" stroke="#EF4444"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0118 0z"/></svg>길찾기</a><a class="A-btn"><svg viewBox="0 0 24 24" stroke="#10B981"><circle cx="12" cy="12" r="10"/><path d="M12 8v4l3 1.5"/></svg>웹</a></div></div></div>
+
+<div class="A-card"><div class="A-card-img"><img src="https://images.unsplash.com/photo-1629909613654-28e377c37b09?w=400&h=200&fit=crop" alt="치과"><div class="overlay"><span class="bd d" style="font-size:10px">🦷 병원/치과</span><span class="bd st" style="font-size:10px">학생포함</span></div></div><div class="A-card-body"><h3>더보스톤치과</h3><div class="A-card-desc">더 정확하게, 더 이쁘게, 더 합리적인</div><div class="A-benefit">임플란트, 교정: 40~60%
+비급여 항목: 20% 할인</div><div class="A-meta">📍 충남 천안시 서북구 불당33길 26</div><div class="A-acts"><a class="A-btn">전화</a><a class="A-btn">길찾기</a><a class="A-btn">웹</a></div></div></div>
+
+<div class="A-card"><div class="A-card-img"><img src="https://images.unsplash.com/photo-1566073771259-6a8506099945?w=400&h=200&fit=crop" alt="호텔"><div class="overlay"><span class="bd ac" style="font-size:10px">🏨 숙박/호텔</span><span class="bd fc" style="font-size:10px">교직원전용</span></div></div><div class="A-card-body"><h3>신라스테이 천안</h3><div class="A-card-desc">최상의 휴식을 완성시켜드립니다</div><div class="A-benefit">판매 객실료 기준 56~58% 할인</div><div class="A-meta">📍 천안시 서북구 동서대로 177</div><div class="A-acts"><a class="A-btn">전화</a><a class="A-btn">길찾기</a><a class="A-btn">웹</a></div></div></div>
+
+<div class="A-card"><div class="A-card-img"><img src="https://images.unsplash.com/photo-1579684385127-1ef15d508118?w=400&h=200&fit=crop" alt="안과"><div class="overlay"><span class="bd o" style="font-size:10px">👁️ 병원/안과</span><span class="bd st" style="font-size:10px">학생포함</span></div></div><div class="A-card-body"><h3>강남 밝은성모안과</h3><div class="A-card-desc">기본과 원칙을 지키는 안과</div><div class="A-benefit">라식, 라섹, 드림렌즈 등 30~58% 할인</div><div class="A-meta">📍 서울 강남구 테헤란로 110</div><div class="A-acts"><a class="A-btn">전화</a><a class="A-btn">길찾기</a><a class="A-btn">웹</a></div></div></div>
+
+<div class="A-card"><div class="A-card-img"><img src="https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?w=400&h=200&fit=crop" alt="캠핑"><div class="overlay"><span class="bd ac" style="font-size:10px">🏕️ 숙박/캠핑</span><span class="bd st" style="font-size:10px">학생포함</span></div></div><div class="A-card-body"><h3>와이(Y)글램핑</h3><div class="A-card-desc">자연에서 즐기는 와이글램핑</div><div class="A-benefit">주중 2만원 / 주말 2.5만원 할인</div><div class="A-meta">📍 충남 아산시 송악면</div><div class="A-acts"><a class="A-btn">전화</a><a class="A-btn">길찾기</a><a class="A-btn">웹</a></div></div></div>
+
+<div class="A-card"><div class="A-card-img"><img src="https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=400&h=200&fit=crop" alt="레스토랑"><div class="overlay"><span class="bd et" style="font-size:10px">🍽️ 음식</span><span class="bd st" style="font-size:10px">학생포함</span></div></div><div class="A-card-body"><h3>뚜띠쿠치나 아산점</h3><div class="A-card-desc">지속가능한 맛집</div><div class="A-benefit">전체 이용요금 10% 할인</div><div class="A-meta">📍 아산시 탕정면 선문로 265-7</div><div class="A-acts"><a class="A-btn">전화</a><a class="A-btn">길찾기</a><a class="A-btn">웹</a></div></div></div>
+
+</div></div></div>
+</div></div>
+
+<!-- ======= B ======= -->
+<div class="pn" id="b">
+<div class="ds"><h2>시안 B — 감성 카드형</h2><p>위펀 레퍼런스. 이미지 퀵 메뉴 + 사진 카드. 감성적이고 학생 친화적인 분위기.</p><div class="tags"><span class="tg g">친근함</span><span class="tg g">시각 임팩트</span><span class="tg r">밀도 낮음</span></div></div>
+<div class="B">
+<div class="B-top"><div class="B-logo"><div class="mk">S</div><div class="tx">선문 웰페어<span>Sunmoon Welfare Portal</span></div></div><div class="B-ctr"><div class="sx"><svg><circle cx="11" cy="11" r="7"/><path d="M16 16l5 5"/></svg><input placeholder="기관명, 혜택, 주소를 검색하세요" readonly></div></div><div class="B-rt"><a href="#">공지사항</a><a href="#">로그인</a></div></div>
+
+<div class="B-banner"><div class="B-bn"><div class="B-bn-bg"><img src="https://images.unsplash.com/photo-1562774053-701939374585?w=1400&h=400&fit=crop&crop=bottom" alt=""></div><div class="B-bn-grad"></div><div class="B-bn-content"><div><h2>선문인을 위한<br>특별한 복지 혜택</h2><p>73개 협약기관의 다양한 할인과 서비스를 만나보세요</p></div><div class="B-bn-right"><div class="num">73</div><div class="label">협약기관</div></div></div></div></div>
+
+<div class="B-qw"><div class="B-q">
+<div class="B-qi"><img src="https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=300&h=180&fit=crop" alt=""><div class="B-qi-overlay"><span class="B-qi-icon">🏥</span><span class="B-qi-label">일반병원</span><span class="B-qi-count">10개</span></div></div>
+<div class="B-qi"><img src="https://images.unsplash.com/photo-1629909613654-28e377c37b09?w=300&h=180&fit=crop" alt=""><div class="B-qi-overlay"><span class="B-qi-icon">🦷</span><span class="B-qi-label">치과</span><span class="B-qi-count">16개</span></div></div>
+<div class="B-qi"><img src="https://images.unsplash.com/photo-1579684385127-1ef15d508118?w=300&h=180&fit=crop" alt=""><div class="B-qi-overlay"><span class="B-qi-icon">👁️</span><span class="B-qi-label">안과</span><span class="B-qi-count">8개</span></div></div>
+<div class="B-qi"><img src="https://images.unsplash.com/photo-1566073771259-6a8506099945?w=300&h=180&fit=crop" alt=""><div class="B-qi-overlay"><span class="B-qi-icon">🏨</span><span class="B-qi-label">숙박</span><span class="B-qi-count">18개</span></div></div>
+</div></div>
+
+<div class="B-mn">
+<div class="B-fb"><div class="B-tg"><div class="B-tgb on">전체 보기</div><div class="B-tgb">학생 혜택</div><div class="B-tgb">교직원 전용</div></div><div class="B-rs">총 <b>73</b>개 협약기관</div></div>
+<div class="B-grid">
+
+<div class="B-card"><div class="B-card-img"><img src="https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=400&h=220&fit=crop" alt=""><span class="cat-badge bd h" style="font-size:10px">🏥 병원/일반</span><span class="target-badge bd st" style="font-size:10px">학생포함</span></div><div class="B-card-body"><h4>천안충무병원</h4><div class="B-card-bf">비급여 항목 10% 할인</div><div class="B-card-info">📍 충남 천안시 서북구 다가말3길 8</div><div class="B-card-info">📋 사원증 및 학생증 지참</div></div><div class="B-card-ft"><a href="#"><svg viewBox="0 0 24 24" stroke="#3B82F6"><path d="M22 16.92V19.92a2 2 0 01-2.18 2"/></svg>전화</a><a href="#"><svg viewBox="0 0 24 24" stroke="#EF4444"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0118 0z"/></svg>길찾기</a><a href="#"><svg viewBox="0 0 24 24" stroke="#10B981"><circle cx="12" cy="12" r="10"/></svg>웹</a></div></div>
+
+<div class="B-card"><div class="B-card-img"><img src="https://images.unsplash.com/photo-1629909613654-28e377c37b09?w=400&h=220&fit=crop" alt=""><span class="cat-badge bd d" style="font-size:10px">🦷 치과</span><span class="target-badge bd st" style="font-size:10px">학생포함</span></div><div class="B-card-body"><h4>더보스톤치과</h4><div class="B-card-bf">임플란트·교정 40~60% / 비급여 20%</div><div class="B-card-info">📍 충남 천안시 서북구 불당33길 26</div></div><div class="B-card-ft"><a href="#">전화</a><a href="#">길찾기</a><a href="#">웹</a></div></div>
+
+<div class="B-card"><div class="B-card-img"><img src="https://images.unsplash.com/photo-1566073771259-6a8506099945?w=400&h=220&fit=crop" alt=""><span class="cat-badge bd ac" style="font-size:10px">🏨 호텔</span><span class="target-badge bd fc" style="font-size:10px">교직원</span></div><div class="B-card-body"><h4>신라스테이 천안</h4><div class="B-card-bf">객실료 56~58% 할인</div><div class="B-card-info">📍 천안시 서북구 동서대로 177</div></div><div class="B-card-ft"><a href="#">전화</a><a href="#">길찾기</a><a href="#">웹</a></div></div>
+
+<div class="B-card"><div class="B-card-img"><img src="https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?w=400&h=220&fit=crop" alt=""><span class="cat-badge bd ac" style="font-size:10px">🏕️ 캠핑</span><span class="target-badge bd st" style="font-size:10px">학생포함</span></div><div class="B-card-body"><h4>와이(Y)글램핑</h4><div class="B-card-bf">주중 2만원 / 주말 2.5만원 할인</div><div class="B-card-info">📍 충남 아산시 송악면</div></div><div class="B-card-ft"><a href="#">전화</a><a href="#">길찾기</a><a href="#">웹</a></div></div>
+
+<div class="B-card"><div class="B-card-img"><img src="https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=400&h=220&fit=crop" alt=""><span class="cat-badge bd et" style="font-size:10px">🍽️ 음식</span><span class="target-badge bd st" style="font-size:10px">학생포함</span></div><div class="B-card-body"><h4>뚜띠쿠치나 아산점</h4><div class="B-card-bf">전체 이용요금 10% 할인</div><div class="B-card-info">📍 아산시 탕정면 선문로 265-7</div></div><div class="B-card-ft"><a href="#">전화</a><a href="#">길찾기</a><a href="#">웹</a></div></div>
+
+<div class="B-card"><div class="B-card-img"><img src="https://images.unsplash.com/photo-1579684385127-1ef15d508118?w=400&h=220&fit=crop" alt=""><span class="cat-badge bd o" style="font-size:10px">👁️ 안과</span><span class="target-badge bd st" style="font-size:10px">학생포함</span></div><div class="B-card-body"><h4>강남 밝은성모안과</h4><div class="B-card-bf">라식·라섹 30~58% 할인</div><div class="B-card-info">📍 서울 강남구 테헤란로 110</div></div><div class="B-card-ft"><a href="#">전화</a><a href="#">길찾기</a><a href="#">웹</a></div></div>
+
+</div></div>
+</div></div>
+
+<!-- ======= C ======= -->
+<div class="pn" id="c">
+<div class="ds"><h2>시안 C — 프리미엄 미니멀</h2><p>LG라이프케어 레퍼런스. 화이트 기반 썸네일 리스트 + 미니 히어로. 데스크톱에서 한 줄에 모든 정보가 보이는 효율 극대화.</p><div class="tags"><span class="tg g">깔끔함</span><span class="tg g">확장성</span><span class="tg n">가장 범용적</span></div></div>
+<div class="C">
+<div class="C-top"><div class="C-logo"><span class="mk">SMU<em>:</em></span><span class="sp">|</span><span class="lb">복지협약 안내</span></div><div class="C-nav"><a href="#" class="on">전체</a><a href="#">병원</a><a href="#">숙박</a><a href="#">장례</a><a href="#">기타</a><a href="#">관리자</a></div><div class="C-rr"><div class="C-sx"><svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="M16 16l5 5"/></svg><input placeholder="기관명, 혜택, 주소 검색..." readonly></div><a class="C-ub"><svg viewBox="0 0 24 24" stroke="#888" fill="none" stroke-width="1.5"><circle cx="12" cy="8" r="4"/><path d="M20 21a8 8 0 10-16 0"/></svg>로그인</a></div></div>
+
+<div class="C-main">
+<div class="C-mini-hero"><div class="C-mini-hero-bg"><img src="https://images.unsplash.com/photo-1562774053-701939374585?w=1400&h=300&fit=crop&crop=center" alt=""></div><div class="C-mini-hero-grad"></div><div class="C-mini-hero-content"><h2>선문인을 위한 특별한 복지 혜택</h2><p>인사총무팀 제공 · 2026년 기준</p><div class="nums"><div class="num-item"><strong>73</strong><span>협약기관</span></div><div class="num-item"><strong>42</strong><span>의료기관</span></div><div class="num-item"><strong>18</strong><span>숙박시설</span></div><div class="num-item"><strong>4</strong><span>장례시설</span></div></div></div></div>
+
+<div class="C-fl"><div class="C-ch"><div class="C-chip on">전체 73</div><div class="C-chip">병원/일반 10</div><div class="C-chip">병원/치과 16</div><div class="C-chip">병원/안과 8</div><div class="C-chip">숙박 18</div><div class="C-chip">장례 4</div><div class="C-chip">기타 9</div></div><div class="C-seg"><div class="C-segb on">전체 보기</div><div class="C-segb">학생 혜택</div><div class="C-segb">교직원 전용</div></div></div>
+<div class="C-rb">총 <b>73</b>개 협약기관이 검색되었습니다</div>
+
+<div class="C-list">
+
+<div class="C-lc"><div class="C-lc-img"><div class="C-lc-accent h"></div><img src="https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=300&h=200&fit=crop" alt=""></div><div class="C-lc-body"><div class="C-lc-main"><div class="C-lc-top"><span class="C-lc-cat">병원 / 일반</span></div><h4>천안충무병원</h4><div class="C-lc-desc">중부권 최대 종합병원, 13개의 전문화 센터</div><div class="C-lc-bf">비급여 항목 10% 할인</div><div class="C-lc-mt"><span>📍 충남 천안시 서북구 다가말3길 8</span><span>📞 041-570-7555</span><span>📋 사원증·학생증 지참</span></div></div><div class="C-lc-side"><span class="bd st">학생포함</span><div class="C-ar"><a class="C-ab"><svg viewBox="0 0 24 24" stroke="#3B82F6"><path d="M22 16.92V19.92a2 2 0 01-2.18 2"/></svg>전화</a><a class="C-ab"><svg viewBox="0 0 24 24" stroke="#EF4444"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0118 0z"/></svg>길찾기</a><a class="C-ab"><svg viewBox="0 0 24 24" stroke="#10B981"><circle cx="12" cy="12" r="10"/></svg>웹</a></div></div></div></div>
+
+<div class="C-lc"><div class="C-lc-img"><div class="C-lc-accent h"></div><img src="https://images.unsplash.com/photo-1629909613654-28e377c37b09?w=300&h=200&fit=crop" alt=""></div><div class="C-lc-body"><div class="C-lc-main"><div class="C-lc-top"><span class="C-lc-cat">병원 / 치과</span></div><h4>더보스톤치과</h4><div class="C-lc-desc">더 정확하게, 더 이쁘게, 더 합리적인</div><div class="C-lc-bf">임플란트·교정 40~60% / 비급여 20% 할인</div><div class="C-lc-mt"><span>📍 충남 천안시 서북구 불당33길 26</span><span>📞 041-555-2879</span></div></div><div class="C-lc-side"><span class="bd st">학생포함</span><div class="C-ar"><a class="C-ab">전화</a><a class="C-ab">길찾기</a><a class="C-ab">웹</a></div></div></div></div>
+
+<div class="C-lc"><div class="C-lc-img"><div class="C-lc-accent ac"></div><img src="https://images.unsplash.com/photo-1566073771259-6a8506099945?w=300&h=200&fit=crop" alt=""></div><div class="C-lc-body"><div class="C-lc-main"><div class="C-lc-top"><span class="C-lc-cat">숙박 / 호텔</span></div><h4>신라스테이 천안</h4><div class="C-lc-desc">최상의 휴식을 완성시켜드립니다</div><div class="C-lc-bf">판매 객실료 기준 56~58% 할인</div><div class="C-lc-mt"><span>📍 천안시 서북구 동서대로 177</span><span>📞 041-415-9000</span></div></div><div class="C-lc-side"><span class="bd fc">교직원전용</span><div class="C-ar"><a class="C-ab">전화</a><a class="C-ab">길찾기</a><a class="C-ab">웹</a></div></div></div></div>
+
+<div class="C-lc"><div class="C-lc-img"><div class="C-lc-accent h"></div><img src="https://images.unsplash.com/photo-1579684385127-1ef15d508118?w=300&h=200&fit=crop" alt=""></div><div class="C-lc-body"><div class="C-lc-main"><div class="C-lc-top"><span class="C-lc-cat">병원 / 안과</span></div><h4>강남 밝은성모안과</h4><div class="C-lc-desc">기본과 원칙을 지키는 안과</div><div class="C-lc-bf">라식, 라섹, 드림렌즈 등 30~58% 할인</div><div class="C-lc-mt"><span>📍 서울 강남구 테헤란로 110</span><span>📞 0507-1408-1515</span></div></div><div class="C-lc-side"><span class="bd st">학생포함</span><div class="C-ar"><a class="C-ab">전화</a><a class="C-ab">길찾기</a><a class="C-ab">웹</a></div></div></div></div>
+
+<div class="C-lc"><div class="C-lc-img"><div class="C-lc-accent h"></div><img src="https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=300&h=200&fit=crop" alt=""></div><div class="C-lc-body"><div class="C-lc-main"><div class="C-lc-top"><span class="C-lc-cat">숙박 / 리조트</span><span class="C-lock-badge">🔒 예약정보</span></div><h4>하이원리조트</h4><div class="C-lc-desc">즐거운 삶과 더 나은 세상을 만드는 행복 쉼터</div><div class="C-lc-bf">객실료 10~80% 할인 (점유율에 따라 변동)</div><div class="C-lc-mt"><span>📍 강원도 정선군 고한읍 하이원길 424</span><span>📞 1588-7789</span><span>🔐 로그인 시 예약 ID/PW 확인 가능</span></div></div><div class="C-lc-side"><span class="bd fc">교직원전용</span><div class="C-ar"><a class="C-ab">전화</a><a class="C-ab">길찾기</a><a class="C-ab lock">🔒 예약정보</a></div></div></div></div>
+
+<div class="C-lc"><div class="C-lc-img"><div class="C-lc-accent et"></div><img src="https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=300&h=200&fit=crop" alt=""></div><div class="C-lc-body"><div class="C-lc-main"><div class="C-lc-top"><span class="C-lc-cat">음식</span></div><h4>뚜띠쿠치나 아산점</h4><div class="C-lc-desc">지속가능한 맛집</div><div class="C-lc-bf">전체 이용요금 10% 할인</div><div class="C-lc-mt"><span>📍 아산시 탕정면 선문로 265-7</span><span>📞 0507-1476-3382</span></div></div><div class="C-lc-side"><span class="bd st">학생포함</span><div class="C-ar"><a class="C-ab">전화</a><a class="C-ab">길찾기</a><a class="C-ab">웹</a></div></div></div></div>
+
+</div></div>
+</div></div>
+
+<script>
+function sw(id,btn){document.querySelectorAll('.pn').forEach(p=>p.classList.remove('on'));document.querySelectorAll('.mt button').forEach(b=>b.classList.remove('on'));document.getElementById(id).classList.add('on');btn.classList.add('on');window.scrollTo({top:0,behavior:'smooth'})}
+</script>
+</body>
+</html>
